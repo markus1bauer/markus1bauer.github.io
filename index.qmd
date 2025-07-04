@@ -64,7 +64,7 @@ Außerdem bin ich Ökologe und interessiere mich für das Thema der zuverlässig
 
 ::: {.column-body}
 
-:::: {style="display: grid; grid-template-columns: 27% 40% 23%; grid-column-gap: 5%; "}
+::: {style="display: grid; grid-template-columns: 27% 40% 23%; grid-column-gap: 5%; "}
 
 :::{}
 
