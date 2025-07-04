@@ -103,12 +103,15 @@ Außerdem bin ich Ökologe und interessiere mich für das Thema der zuverlässig
 :::
 
 :::
-
-::::
+<!-- Ende grid-container -->
 
 <br>
 
 :::
+<!-- Ende column-body -->
+
+:::
+<!-- Ende column-screen -->
 
 ### [Publications](publications.qmd)
 
@@ -194,12 +197,15 @@ Bavarian Botanical Society ([BBG](https://www.bbgev.de/))
 :::
 
 :::
-
-::::
-
-:::
+<!-- Ende grid-container -->
 
 <br>
+
+:::
+<!-- Ende column-body -->
+
+:::
+<!-- Ende column-screen -->
 
 #### **Vegetationskartierung**
 
@@ -288,13 +294,20 @@ Deutschland]{style="color:white;"}
 :::
 
 :::
+<!-- Ende grid-container -->
+
+<br>
 
 :::
+<!-- Ende column-body -->
 
 :::
+<!-- Ende column-screen -->
 
 ::: {.column-screen style="background-color:#FFFFFF"}
 
 ```{r Festuco-Brometea, echo=FALSE, align="center", fig.cap="[Cirsio-Bracypodion pinnati](https://floraveg.eu/vegetation/overview/Cirsio-Brachypodion%20pinnati) &copy; Markus Bauer"}
 knitr::include_graphics(here("images", "20210603_144806.jpg"))
 ```
+
+:::
