@@ -77,7 +77,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./publications.html"> 
-<span class="menu-text">Publications</span></a>
+<span class="menu-text">Research interests</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./referenzen.html"> 
@@ -88,7 +88,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Kontakt</span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/markus1bauer/loekb"> <i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/markus1bauer/"> <i class="bi bi-github" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -137,13 +137,6 @@ ul.task-list li input[type="checkbox"] {
 <p>Verbraucherstreitbeilegung Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: <a href="https://ec.europa.eu/consumers/odr/.">https://ec.europa.eu/consumers/odr/</a> Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.</p>
 <p>Quelle Impressumsvorlage: eRecht24</p>
 
-<div class="hidden" data-render-id="footer-right-/impressum.html">
-<p>Impressum</p>
-</div>
-<div class="hidden" data-render-id="footer-right-/datenschutz.html">
-<p>Datenschutz</p>
-</div>
-<p>:::</p>
 
 
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
@@ -228,7 +221,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/markus1bauer\.github\.io\/homepage\/");
+      var filterRegex = new RegExp("https:\/\/markus1bauer\.github\.io\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
@@ -560,25 +553,42 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-      &nbsp;
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+ <p>© 2025, Markus Bauer</p>
+  </li>  
+</ul>
     </div>   
     <div class="nav-footer-center">
-      &nbsp;
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+    <a class="nav-link" href="https://www.r-project.org/about.html">
+<p>R</p>
+</a>
+  </li>  
+    <li class="nav-item">
+    <a class="nav-link" href="https://quarto.org/">
+<p>Quarto</p>
+</a>
+  </li>  
+    <li class="nav-item">
+    <a class="nav-link" href="https://pages.github.com/">
+<p>GitHub Pages</p>
+</a>
+  </li>  
+</ul>
     </div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item">
- <p>© Markus Bauer 2025; Made with <a href="https://www.quarto.org">Quarto</a></p>
-  </li>  
-    <li class="nav-item">
     <a class="nav-link active" href="./impressum.html" aria-current="page">
- Impressum
-    </a>
+<p>Impressum</p>
+</a>
   </li>  
     <li class="nav-item">
     <a class="nav-link" href="./datenschutz.html">
- Datenschutz
-    </a>
+<p>Datenschutz</p>
+</a>
   </li>  
 </ul>
     </div>

@@ -5,7 +5,7 @@ project:
 website:
   title: "Landschaftsökologie Bauer"
   description: "Markus Bauer ist selbständiger Vegetationskartierer und Wissenschaftler. Schwerpunkte sind das Monitoring, Biotopkartierung, GIS-Analysen und Statistik."
-  site-url: "https://markus1bauer.github.io/homepage/"
+  site-url: "https://markus1bauer.github.io/"
   back-to-top-navigation: true
   search: false
   navbar:
@@ -16,22 +16,30 @@ website:
       - icon: house-door-fill
         text: " "
         href: index.qmd
-      - text: "Publications"
+      - text: "Research interests"
         href: publications.qmd
       - text: "Referenzen"
         href: referenzen.qmd
       - text: "Kontakt"
         href: index.qmd#sec-kontakt
       - icon: github
-        href: "https://github.com/markus1bauer/loekb"
+        href: "https://github.com/markus1bauer/"
   page-footer:
+    left:
+      - text: <p>&#169; 2025, Markus Bauer</p>
+    center:
+      - text: "R"
+        href: https://www.r-project.org/about.html
+      - text: "Quarto"
+        href: https://quarto.org/
+      - text: "GitHub Pages"
+        href: https://pages.github.com/
     right:
-      - text: <p>&#169; Markus Bauer 2025; Made with <a href="https://www.quarto.org">Quarto</a></p>
       - text: "Impressum"
         href: impressum.qmd
       - text: "Datenschutz"
         href: datenschutz.qmd
-  
+
 format:
   html:
     fontsize: 14pt
