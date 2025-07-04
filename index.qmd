@@ -1,0 +1,300 @@
+```{r include=FALSE}
+library(here)
+library(tidyverse)
+library(fontawesome)
+```
+
+::: {.column-screen style="background-color:#FFFFFF"}
+
+```{r Salvio-Arrhenateretum, echo=FALSE, align="center", fig.cap="[Salvio-Arrhenatheretum](https://floraveg.eu/vegetation/overview/arrhenatherion) &copy; Markus Bauer"}
+knitr::include_graphics(here("images", "titel.png"))
+```
+
+:::
+
+::: {.column-body}
+
+<center>
+
+<p style="color:black;">
+Dr. rer. nat.<br>
+**Markus Bauer**
+</p>
+
+Researcher | Technical University of Munich
+<br>
+Self-employed vegetation mapper | Landschaftsökologie Bauer
+<br>
+
+[`r fa(name = "square-github", fill = "black", height = "2em")`](https://github.com/markus1.bauer)
+[`r fa(name = "google-scholar", fill = "black", height = "2em")`](https://scholar.google.de/citations?user=oHhmOkkAAAAJ&hl=de) [`r fa(name = "linkedin", fill = "black", height = "2em")`](www.linkedin.com/in/markus-bauer-10a451228)
+[`r fa(name = "orcid", fill = "black", height = "2em")`](https://orcid.org/0000-0001-5372-4174)
+[`r fa(name = "researchgate", fill = "black", height = "2em")`](https://www.researchgate.net/profile/Markus-Bauer-8)
+[`r fa(name = "stack-overflow", fill = "black", height = "2em")`](https://stackoverflow.com/users/15853879/markus-bauer)
+
+</center>
+
+<!-- <center> -->
+
+<!-- [Research | Forschung](index.qmd#sec-research){.btn .btn-outline-primary .btn role="button"} -->
+<!-- [Vegetation mapping | Vegetationskartierung](index.qmd#sec-loekb){.btn .btn-outline-primary .btn role="button"} -->
+<!-- [Contact | Kontakt](index.qmd#sec-kontakt){.btn .btn-outline-primary .btn role="button"} -->
+
+<!-- </center> -->
+
+### About
+
+I am an ecologist interested in the predictable development of target vegetation through ecological restoration approaches. This should lead to increased biodiversity in degraded protected areas and in modern landscape features that can therefore contribute to green infrastructure.
+<br>
+Furthermore, I am a freelance vegetation mapper in southern Bavaria for forest and grassland in the context of monitoring projects and biotope mapping. I also create monitoring concepts and work with GNSS for the exact localisation of permanent plots.
+
+### Über
+
+Ich bin ein freiberuflicher Vegetationskartierer in Südbayern für Wald und Offenland im Rahmen von Monitoringarbeiten und Biotopkartierungen. Außerdem erstelle ich Monitoringkonzepte und arbeite mit GNSS für ein exakte Verortung von Dauerbeobachtungsflächen.
+<br>
+Außerdem bin ich Ökologe und interessiere mich für das Thema der zuverlässigen Entwicklung der Zielvegetation durch Renaturierung. Dies soll zu einer erhöhten biologischen Vielfalt in degradierten Schutzgebieten und in modernen Landschaftselementen führen, die so zur grünen Infrastruktur beitragen können.
+<br>
+<br>
+
+:::
+
+::: {.column-screen style="background-color:#0d730d"}
+
+# [Research]{style="color:white;"} {#sec-research}
+
+::: {.column-body}
+
+:::: {style="display: grid; grid-template-columns: 27% 40% 23%; grid-column-gap: 5%; "}
+
+:::{}
+
+<center>
+
+![](images/grass_4123310_white.png){width=128}
+<br>
+[**Grassland Ecology**]{style="color:white;"}
+
+</center>
+
+:::
+
+:::{}
+
+<center>
+
+![](images/forest_15423883_white.png){width=128}
+<br>
+[**Community Ecology**]{style="color:white;"}
+
+</center>
+
+:::
+
+:::{}
+
+<center>
+
+![](images/landscape_4932762_white.png){width=128}
+<br>
+[**Restoration Ecology**]{style="color:white;"}
+
+</center>
+
+:::
+
+:::
+
+::::
+
+<br>
+
+:::
+
+### [Publications](publications.qmd)
+
+### Affiliation
+
+**Postoctoral researcher**
+
+Technical University of Munich
+<br>
+TUM School of Life Science
+<br>
+Chair of Restoration Ecology
+
+Emil-Ramann-Straße 6
+<br>
+85354 Freising-Weihenstephan
+<br>
+Germany
+
+Tel. +49 8161 712 493
+<br>
+markus1.bauer[at]tum.de
+<br>
+[www.lss.ls.tum.de/roek](www.lss.ls.tum.de/en/roek)
+<br>
+[Homepage/Profile](https://www.lss.ls.tum.de/en/roek/team/markus-bauer/)
+
+### Memberships
+
+International Association of Vegetation Science ([IAVS](https://www.iavs.org/))
+<br>
+Ecological Society of Germany, Austria and Switzerland ([GfÖ](https://gfoe.org/en/))
+<br>
+Floristisch-soziologische Arbeitsgemeinschaft ([FlorSoz](https://www.tuexenia.de/en/home-2/))
+<br>
+Bavarian Botanical Society ([BBG](https://www.bbgev.de/))
+<br>
+<br>
+
+::: {.column-screen style="background-color:#0d730d"}
+
+# [Landschafts&shy;ökologie Bauer]{style="color:white;"}{#sec-loekb}
+<br>
+
+::: {.column-body}
+
+:::: {style="display: grid; grid-template-columns: 30% 30% 30%; grid-column-gap: 5%; "}
+
+:::{}
+
+<center>
+
+![](images/map_636573_white.png){width=128}
+<br>
+[**Vegetations&shy;kartierung**]{style="color:white;"}
+
+</center>
+
+:::
+
+:::{}
+
+<center>
+
+![](images/chart_18727796_white.png){width=128}
+<br>
+[**Statistische Datenanalyse**]{style="color:white;"}
+
+</center>
+
+:::
+
+:::{}
+
+<center>
+
+![](images/project_10164341_white.png){width=128}
+<br>
+[**Monitoring und Literatur&shy;studien**]{style="color:white;"}
+
+</center>
+
+:::
+
+:::
+
+::::
+
+:::
+
+<br>
+
+#### **Vegetationskartierung**
+
+*   BNT-Kartierung (BayKompV)
+*   FFH-Lebensraumtypen
+*   Baumbestandspläne
+*   Floristisch-vegetationskundliche Aufnahmen
+    *   Populationserfassung
+    *   Erfolgskontrolle und Dauerbeobachtungs-flächen
+*   GNSS-Sensor [ppm10xx](https://ppmgmbh.com/Download/Produkte/ppm/ppm10xx/Datenblatt/Datenblatt_ppm10xx.pdf) (Genauigkeit 1 cm)
+
+#### **Statistische Datenanalyse**
+
+*   Datenauswertung mit R\
+    *   Maschinenlesbare Aufbereitung
+    *   Abbildungserstellung
+*   GIS mit QGIS und R
+    *   Digitalisierung von Vektordaten
+    *   Räumliche Analysen
+    *   Kartendarsellung
+*   Dashboards mit Shiny
+
+#### **Monitoringkonzepte und Literaturstudien**
+
+*   Erstellung von Monitorinkonzepten\
+    *   repräsentative Aufnahmeverteilung; statistisch auswertbar
+*   Literaturrecherche zu Forschungsfragen
+*   Erstellung von Publikationen für Fachzeitschriften wie ANLiegen Natur
+
+### [Referenzen](referenzen.qmd)
+
+### Mitgliedschaften
+
+Bundesverband Beruflicher Naturschutz ([BBN](https://www.bbn-online.de/start))
+
+<br>
+<br>
+
+
+::: {.column-screen style="background-color:#0d730d"}
+
+# [Kontakt]{style="color:white;"}{#sec-kontakt}
+
+::: {.column-body}
+
+:::: {style="display: grid; grid-template-columns: 30% 40% 22%; grid-column-gap: 4%; "}
+
+::: {}
+
+<center>
+
+[`r fa(name = "map-marker-alt", height = "2em")`]{style="color:white;"}
+
+[**Landschafts&shy;ökologie Bauer**
+<br>
+85354 Freising
+<br>
+Deutschland]{style="color:white;"}
+
+</center>
+
+:::
+
+::: {}
+
+<center>
+
+[`r fa(name = "envelope", height = "2em")`]{style="color:white;"}
+
+[landschafts&shy;oekologie-bauer&shy;\@mailbox.org](mailto:landschaftsoekologie-bauer@mailbox.org){style="color:white;"}
+
+</center>
+
+:::
+
+::: {}
+
+<center>
+
+[`r fa(name = "phone", height = "2em")`]{style="color:white;"}
+
+[0049 152 5639 1781]{style="color:white;"}
+
+</center>
+
+:::
+
+:::
+
+:::
+
+:::
+
+::: {.column-screen style="background-color:#FFFFFF"}
+
+```{r Festuco-Brometea, echo=FALSE, align="center", fig.cap="[Cirsio-Bracypodion pinnati](https://floraveg.eu/vegetation/overview/Cirsio-Brachypodion%20pinnati) &copy; Markus Bauer"}
+knitr::include_graphics(here("images", "20210603_144806.jpg"))
+```
