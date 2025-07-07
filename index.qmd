@@ -189,8 +189,8 @@ Bavarian Botanical Society ([BBG](https://www.bbgev.de/))
 *   Baumbestandspläne
 *   Floristisch-vegetationskundliche Aufnahmen
     *   Populationserfassung
-    *   Erfolgskontrolle und Dauerbeobachtungs-flächen
-*   GNSS-Sensor [ppm10xx](https://ppmgmbh.com/Download/Produkte/ppm/ppm10xx/Datenblatt/Datenblatt_ppm10xx.pdf) (Genauigkeit 1 cm)
+    *   Erfolgskontrolle und Dauerbeobachtungsflächen
+    *   GNSS-Sensor [ppm10xx](https://ppmgmbh.com/Download/Produkte/ppm/ppm10xx/Datenblatt/Datenblatt_ppm10xx.pdf) (Genauigkeit 1 cm)
 
 #### **Statistische Datenanalyse**
 
