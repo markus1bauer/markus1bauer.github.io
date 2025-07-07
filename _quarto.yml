@@ -23,7 +23,7 @@ website:
       - text: "Kontakt"
         href: index.qmd#sec-kontakt
       - icon: github
-        href: "https://github.com/markus1bauer/"
+        href: "https://github.com/markus1bauer/markus1bauer.github.io"
   page-footer:
     left:
       - text: <p>&#169; 2025, Markus Bauer</p>
