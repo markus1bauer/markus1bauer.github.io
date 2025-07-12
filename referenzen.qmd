@@ -4,6 +4,11 @@ German version only
 
 ::: {.column-screen style="background-color:#FFFFFF"}
 
+```{r include=FALSE}
+library(here)
+library(tidyverse)
+```
+
 ```{r Festuco-Brometea_2, echo=FALSE, align="center", fig.cap="[Bromion erecti](https://floraveg.eu/vegetation/overview/Bromion%20erecti) &copy; Markus Bauer"}
 knitr::include_graphics(here::here("images", "20250422_130019.jpg"))
 ```
@@ -51,6 +56,10 @@ knitr::include_graphics(here::here("images", "20250422_130019.jpg"))
 
 * Offenlandkartierung um Nesselwang und Pfronten (Ostallgäu) 2024\
   ‒ Bissinger Landschaftsplanung, München
+  
+#### **Shiny dashboards**
+
+* [Monitoring Donaudeiche](https://markusbauer.shinyapps.io/shiny_app_map_danube/)
 
 #### **Partner**
 

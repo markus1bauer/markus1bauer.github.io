@@ -1,7 +1,7 @@
 ::: {.column-screen style="background-color:#FFFFFF"}
 
 ```{r Salvio-Arrhenateretum, echo=FALSE, align="center", fig.cap="[Salvio-Arrhenatheretum](https://floraveg.eu/vegetation/overview/arrhenatherion) &copy; Markus Bauer"}
-knitr::include_graphics(here("images", "titel.png"))
+knitr::include_graphics(here::here("images", "titel.png"))
 ```
 
 :::
@@ -201,7 +201,7 @@ Bavarian Botanical Society ([BBG](https://www.bbgev.de/))
     *   Digitalisierung von Vektordaten
     *   Räumliche Analysen
     *   Kartendarsellung
-*   Dashboards mit Shiny
+*   Dashboards mit [Shiny](https://rstudio.github.io/shinydashboard/index.html)
 
 #### **Monitoringkonzepte und Literaturstudien**
 
