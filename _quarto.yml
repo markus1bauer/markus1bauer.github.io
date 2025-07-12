@@ -26,7 +26,7 @@ website:
         href: "https://github.com/markus1bauer/markus1bauer.github.io"
   page-footer:
     left:
-      - text: <p>&#169; 2025, Markus Bauer</p>
+      - text: <p>&#169; 2025 Markus Bauer</p>
     center:
       - text: "R"
         href: https://www.r-project.org/about.html

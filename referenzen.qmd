@@ -61,8 +61,12 @@ knitr::include_graphics(here::here("images", "20250422_130019.jpg"))
 
 * [Monitoring Donaudeiche](https://markusbauer.shinyapps.io/shiny_app_map_danube/)
 
+::: {.column-screen style="background-color:#0d730d; color:white"}
+
 #### **Partner**
 
 * [Natur Perspektiven](https://natur-perspektiven.de/)
 * [JESTAEDT + Partner](https://www.jestaedt-partner.de/)
 * [terra limna](https://www.terralimna.de/)
+
+:::
