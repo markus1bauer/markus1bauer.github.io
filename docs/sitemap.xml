@@ -1,63 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://markus1bauer.github.io/en/index.html</loc>
-    <lastmod>2025-07-20T03:14:29.344Z</lastmod>
-  </url>
-  <url>
-    <loc>https://markus1bauer.github.io/en/4_impressum.html</loc>
-    <lastmod>2025-07-04T03:53:38.868Z</lastmod>
-  </url>
-  <url>
-    <loc>https://markus1bauer.github.io/en/2_publikationen.html</loc>
-    <lastmod>2025-07-20T03:16:20.481Z</lastmod>
-  </url>
-  <url>
-    <loc>https://markus1bauer.github.io/en/3_referenzen.html</loc>
+    <loc>https://markus1bauer.github.io/en/referenzen.html</loc>
     <lastmod>2025-07-20T02:28:18.632Z</lastmod>
   </url>
   <url>
-    <loc>https://markus1bauer.github.io/en/5_datenschutz.html</loc>
-    <lastmod>2025-07-04T03:53:38.775Z</lastmod>
-  </url>
-  <url>
-    <loc>https://markus1bauer.github.io/index.html</loc>
-    <lastmod>2025-07-20T03:18:52.811Z</lastmod>
-  </url>
-  <url>
-    <loc>https://markus1bauer.github.io/4_impressum.html</loc>
+    <loc>https://markus1bauer.github.io/en/impressum.html</loc>
     <lastmod>2025-07-04T03:53:38.868Z</lastmod>
   </url>
   <url>
-    <loc>https://markus1bauer.github.io/2_publikationen.html</loc>
-    <lastmod>2025-07-20T03:33:32.290Z</lastmod>
+    <loc>https://markus1bauer.github.io/en/datenschutz.html</loc>
+    <lastmod>2025-07-04T03:53:38.775Z</lastmod>
   </url>
   <url>
-    <loc>https://markus1bauer.github.io/3_referenzen.html</loc>
+    <loc>https://markus1bauer.github.io/en/forschung.html</loc>
+    <lastmod>2025-07-20T10:36:33.204Z</lastmod>
+  </url>
+  <url>
+    <loc>https://markus1bauer.github.io/en/index.html</loc>
+    <lastmod>2025-07-20T10:35:45.162Z</lastmod>
+  </url>
+  <url>
+    <loc>https://markus1bauer.github.io/referenzen.html</loc>
     <lastmod>2025-07-20T02:28:18.417Z</lastmod>
   </url>
   <url>
-    <loc>https://markus1bauer.github.io/5_datenschutz.html</loc>
-    <lastmod>2025-07-04T03:53:38.775Z</lastmod>
-  </url>
-  <url>
-    <loc>https://markus1bauer.github.io/2_publikationen.en.html</loc>
-    <lastmod>2025-07-20T03:33:32.352Z</lastmod>
-  </url>
-  <url>
-    <loc>https://markus1bauer.github.io/index.en.html</loc>
-    <lastmod>2025-07-20T03:14:29.344Z</lastmod>
-  </url>
-  <url>
-    <loc>https://markus1bauer.github.io/4_impressum.en.html</loc>
+    <loc>https://markus1bauer.github.io/impressum.html</loc>
     <lastmod>2025-07-04T03:53:38.868Z</lastmod>
   </url>
   <url>
-    <loc>https://markus1bauer.github.io/3_referenzen.en.html</loc>
-    <lastmod>2025-07-20T02:28:18.632Z</lastmod>
+    <loc>https://markus1bauer.github.io/datenschutz.html</loc>
+    <lastmod>2025-07-04T03:53:38.775Z</lastmod>
   </url>
   <url>
-    <loc>https://markus1bauer.github.io/5_datenschutz.en.html</loc>
-    <lastmod>2025-07-04T03:53:38.775Z</lastmod>
+    <loc>https://markus1bauer.github.io/forschung.html</loc>
+    <lastmod>2025-07-20T10:36:33.515Z</lastmod>
+  </url>
+  <url>
+    <loc>https://markus1bauer.github.io/index.html</loc>
+    <lastmod>2025-07-20T10:35:45.084Z</lastmod>
   </url>
 </urlset>

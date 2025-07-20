@@ -95,7 +95,7 @@ Furthermore, I am a freelance vegetation mapper in southern Bavaria for forest a
 
 :::
 
-### [Publications](2_publikationen.qmd)
+### [Publications](forschung.en.qmd)
 
 ### Affiliation
 
@@ -117,7 +117,7 @@ Tel. +49 8161 712 493
 <br>
 markus1.bauer[at]tum.de 
 <br>
-[www.lss.ls.tum.de/roek](www.lss.ls.tum.de/en/roek)
+[www.lss.ls.tum.de/roek](https://www.lss.ls.tum.de/en/roek)
 <br>
 [Homepage/Profile](https://www.lss.ls.tum.de/en/roek/team/markus-bauer/)
 

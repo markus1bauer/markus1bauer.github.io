@@ -17,9 +17,9 @@ website:
         text: " "
         href: index.qmd
       - text: "Forschung/Research"
-        href: 2_publikationen.qmd
+        href: forschung.qmd
       - text: "Referenzen/References"
-        href: 3_referenzen.qmd
+        href: referenzen.qmd
       - icon: github
         href: "https://github.com/markus1bauer/markus1bauer.github.io"
   page-footer:
@@ -34,9 +34,9 @@ website:
         href: https://pages.github.com/
     right:
       - text: "Impressum"
-        href: 4_impressum.qmd
+        href: impressum.qmd
       - text: "Datenschutz"
-        href: 5_datenschutz.qmd
+        href: datenschutz.qmd
 
 format:
   html:

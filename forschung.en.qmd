@@ -3,11 +3,11 @@ library(here)
 library(tidyverse)
 ```
 
-# Forschungsinteressen
+# Research interests
 
 ::: {.column-screen style="background-color:#FFFFFF"}
 
-```{r Experiment, echo=FALSE, align="center", fig.cap="Experiment zur Renaturierung von Langgrasprärien, Michigan &copy; Lars Brudvig"}
+```{r Experiment, echo=FALSE, align="center", fig.cap="Experiment for the restoration of tall-grass prairies, Michigan &copy; Lars Brudvig"}
 knitr::include_graphics(here::here("images", "20250718_1000012834.jpg"))
 ```
 
@@ -26,7 +26,7 @@ I study the interactions of the species pool (e.g. size or composition), dispers
 knitr::include_graphics(here::here("images", "figure_3_300dpi_16.5x5cm.png"))
 ```
 
-#### **Ausgewählte Publikationen (*Peer review*)**
+#### **Selected publications**
 
 **Bauer M**, Huber JK, Kollmann J (2023) Fit by design: Developing seed–substrate combinations to adapt dike grasslands to microclimatic variation. – *Journal of Applied Ecology* 60, 2413–2424. 
 [https://doi.org/10.1111/1365-2664.14497](https://doi.org/10.1111/1365-2664.14497)
@@ -34,7 +34,7 @@ knitr::include_graphics(here::here("images", "figure_3_300dpi_16.5x5cm.png"))
 Teixeira LH\*, **Bauer M**\*, Moosner M, Kollmann J (2023) River dike grasslands can reconcile biodiversity and different ecosystem services to provide multifunctionality. – *Basic and Applied Ecology* 66, 22–30. [![DOI:10.1016/j.baae.2022.12.001](http://img.shields.io/badge/DOI-10.1016/j.baae.2022.12.001-informational.svg)](https://doi.org/10.1016/j.baae.2022.12.001)
 <br>
 <br>
-## Vegetationsdynamik
+## Vegetation dynamics
 
 I am interested vegetation change over time containing of annual balanced turnover and directional change. This is important for the evaluation of reference sites as well as to identify unhelpful resilience of degraded sites under restoration.
 
@@ -42,7 +42,7 @@ I am interested vegetation change over time containing of annual balanced turnov
 knitr::include_graphics(here::here("images", "figure_2_800dpi_16.5x11cm.png"))
 ```
 
-#### **Ausgewählte Publikationen (*Peer review*)**
+#### **Selected publications**
 
 **Bauer M**, Huber JK, Kollmann J (2024) Beta diversity of restored river dike grasslands is strongly influenced by uncontrolled spatio-temporal variability. – *Journal of Vegetation Science* 35, e13293. [![DOI:10.1111/jvs.13293](http://img.shields.io/badge/DOI-10.1111/jvs.13293-informational.svg)](https://doi.org/10.1111/jvs.13293)
 
@@ -51,9 +51,10 @@ knitr::include_graphics(here::here("images", "figure_2_800dpi_16.5x11cm.png"))
 **Bauer M**, Harzer R, Strobl K & Kollmann J (2018) Resilience of riparian vegetation after restoration measures on River Inn. – *River Research and Applications* 35, 451–460. [![DOI:10.1002/rra.3255](http://img.shields.io/badge/DOI-10.1002/rra.3255-informational.svg)](https://doi.org/10.1002/rra.3255)
 <br>
 <br>
+
 ::: {.column-screen style="background-color:#FFFFFF"}
 
-```{r Experiment2, echo=FALSE, align="center", fig.cap="Donaudeichexperiment &copy; Markus Bauer"}
+```{r Experiment2, echo=FALSE, align="center", fig.cap="Experiment on dikes along river Danube &copy; Markus Bauer"}
 knitr::include_graphics(here::here("images", "20210716_111816.jpg"))
 ```
 

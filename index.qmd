@@ -124,7 +124,7 @@ Als Ökologe interessiere ich mich für das Thema der zuverlässigen Entwicklung
 *   Literaturrecherche zu Forschungsfragen
 *   Erstellung von Publikationen für Fachzeitschriften wie ANLiegen Natur
 
-### [Referenzen](3_referenzen.qmd)
+### [Referenzen](referenzen.qmd)
 
 ### Mitgliedschaften
 
@@ -186,7 +186,7 @@ International Association of Vegetation Science ([IAVS](https://www.iavs.org/))
 
 :::
 
-### [Publikationen](2_publikationen.qmd)
+### [Publikationen](forschung.qmd)
 
 **Wissenschaftler (Postdoc)**
 
@@ -202,7 +202,7 @@ Emil-Ramann-Straße 6
 <br>
 Germany 
 <br>
-[www.lss.ls.tum.de/roek](www.lss.ls.tum.de/roek)
+[www.lss.ls.tum.de/roek](https://www.lss.ls.tum.de/roek)
 <br>
 [Homepage/Profile](https://www.lss.ls.tum.de/roek/team/markus-bauer/)
 
