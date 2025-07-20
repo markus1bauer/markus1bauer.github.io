@@ -34,7 +34,6 @@ knitr::include_graphics(here::here("images", "figure_3_300dpi_16.5x5cm.png"))
 
 Teixeira LH\*, **Bauer M**\*, Moosner M, Kollmann J (2023) River dike grasslands can reconcile biodiversity and different ecosystem services to provide multifunctionality. – *Basic and Applied Ecology* 66, 22–30. [![DOI:10.1016/j.baae.2022.12.001](http://img.shields.io/badge/DOI-10.1016/j.baae.2022.12.001-informational.svg)](https://doi.org/10.1016/j.baae.2022.12.001)
 
-<br>
 
 ## Vegetation dynamics
 
@@ -52,7 +51,6 @@ knitr::include_graphics(here::here("images", "figure_2_800dpi_16.5x11cm.png"))
 
 **Bauer M**, Harzer R, Strobl K & Kollmann J (2018) Resilience of riparian vegetation after restoration measures on River Inn. – *River Research and Applications* 35, 451–460. [![DOI:10.1002/rra.3255](http://img.shields.io/badge/DOI-10.1002/rra.3255-informational.svg)](https://doi.org/10.1002/rra.3255)
 
-<br>
 
 ::: {.column-screen style="background-color:#FFFFFF"}
 

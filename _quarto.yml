@@ -1,4 +1,3 @@
-
 project:
   type: website
   output-dir: docs
@@ -6,7 +5,6 @@ project:
 website:
   title: "Landschaftsökologie Bauer"
   description: "Markus Bauer ist ein selbständiger Vegetationskartierer, Landschaftsplaner und Wissenschaftler im Bereich Ökologie in Freising und an der Technischen Universität München. Schwerpunkte sind Monitoring, Biotopkartierung, Renaturierung, GIS-Analysen und Statistik."
-  #keywords: ["Markus", "Bauer", "Ökologie", "Freising", "München", "TUM", "TU", "Landschaft", "Munich", "ecology", "restoration", "grasslands", "grassland", "dikes", "dike"]
   site-url: "https://markus1bauer.github.io/"
   back-to-top-navigation: true
   search: false
@@ -45,6 +43,9 @@ format:
     fontsize: 14pt
     monofont: Arial
     toc: FALSE
+    meta:
+      keywords: ["Markus", "Bauer", "Ökologie", "Freising", "München", "TUM", "TU", "Landschaft", "Munich", "ecology", "restoration", "grasslands", "grassland", "dikes", "dike"]
+      description: "Markus Bauer ist ein selbständiger Vegetationskartierer, Landschaftsplaner und Wissenschaftler im Bereich Ökologie in Freising und an der Technischen Universität München. Schwerpunkte sind Monitoring, Biotopkartierung, Renaturierung, GIS-Analysen und Statistik."
 
 babelquarto:
   languagecodes:

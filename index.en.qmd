@@ -5,7 +5,7 @@ lang: en
 ::: {.column-screen style="background-color:#FFFFFF"}
 
 ```{r Salvio-Arrhenateretum, echo=FALSE, align="center", fig.cap="[Salvio-Arrhenatheretum](https://floraveg.eu/vegetation/overview/arrhenatherion), Wipfelsfurt, GER &copy; Markus Bauer"}
-knitr::include_graphics(here::here("images", "titel.png"))
+knitr::include_graphics(here::here("images", "titel3.png"))
 ```
 
 :::
