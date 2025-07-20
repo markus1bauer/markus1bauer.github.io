@@ -16,12 +16,10 @@ website:
       - icon: house-door-fill
         text: " "
         href: index.qmd
-      - text: "Research interests"
+      - text: "Forschungsinteressen/Research interests"
         href: 2_publikationen.qmd
-      - text: "Referenzen"
+      - text: "Referenzen/References"
         href: 3_referenzen.qmd
-      - text: "Kontakt"
-        href: index.qmd#sec-kontakt
       - icon: github
         href: "https://github.com/markus1bauer/markus1bauer.github.io"
   page-footer:
