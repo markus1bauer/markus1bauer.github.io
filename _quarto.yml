@@ -45,4 +45,16 @@ format:
     fontsize: 14pt
     monofont: Arial
     toc: FALSE
-    
+
+babelquarto:
+  languagecodes:
+  - name: en
+    text: "EN"
+  - name: de
+    text: "DE"
+  mainlanguage: 'de'
+  languages: ['en']
+title-en: "Markus Bauer"
+description-en: description in en
+author-en: "Markus Bauer"
+lang: de
