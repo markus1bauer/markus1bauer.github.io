@@ -1,0 +1,85 @@
+# Referenzen Landschaftsökologie Bauer
+
+German version only
+
+::: {.column-screen style="background-color:#FFFFFF"}
+
+```{r include=FALSE}
+library(here)
+library(tidyverse)
+```
+
+```{r Festuco-Brometea_2, echo=FALSE, align="center", fig.cap="[Bromion erecti](https://floraveg.eu/vegetation/overview/Bromion%20erecti) &copy; Markus Bauer"}
+knitr::include_graphics(here::here("images", "20250422_130019.jpg"))
+```
+
+:::
+
+#### **Monitoring**
+
+* Langwieder Heide Kerngebiet und Erweiterung, München-Langwied, 2025\
+  ‒ Landesbund für Vogelschutz (LBV), Kreisgruppe München
+
+* Monitoring auf Ausgleichsflächen, München-Langwied, 2024\
+  ‒ Jestaedt + Partner, München
+
+* Bundeswaldinventur (BWI) ‒ Vegetationsmonitoring Bayern 2023 (≈ Los 8) Braun-Blanquet-Aufnahmen auf Dauerbeobachtungsflächen, die als FFH-LRT markiert waren\
+  ‒ Projekt vom Bundesamt für Naturschutz\
+  ‒ Beauftragt durch Hochschule Weihenstephan-Triesdorf (Prof. Dr. Jörg Ewald)
+
+* PEPL Garchinger Heide ‒ Vegetationsmonitoring 2021 Konzeptentwicklung und Erstaufnahme des Monitorings im Rahmen des PEPL\
+  ‒ Heideflächenverein Münchner Norden e.V. / Technische Universität München
+
+#### **Kartierung Biotop- und Nutzungstypen (BNT)** (Auswahl)
+
+* München Stadtgebiet, U-Bahnverlängerung Pasing-Freiham, 2025, 238 ha\
+  ‒ Projekt der Stadt München\
+  ‒ Natur Perspektiven, Marzling
+* Grünland München-Riem, 2024, 9 ha\
+  ‒ Jestaedt + Partner, München
+* BPlan 163, Freising-Lerchenfeld, 2024, 4 ha\
+  ‒ Natur Perspektiven, Marzling
+* Max-Planck-Campus, Martinsried, München, 2023, 35 ha\
+  ‒ Natur Perspektiven, Marzling
+
+#### **Biotopkartierung**
+
+* Pionierübungsplatz Krailling 2023, 70 ha\
+  ‒ Vorbereitung für Bayern-Netz-Natur-Projekt\
+  ‒ Natur Perspektiven, Marzling
+* Fortbildung: Kurs Biotopkartierung 2023 (5 Tage)\
+  ‒ Bayerische Akademie für Naturschutz und Landschaftspflege (ANL), Rosenheim
+* Mähwiesenkartierung Lkr. Aichach 2022 ‒ Kartierung zur Potentialabschätzung\
+  ‒ peb, Dachau
+
+#### **Vertragsnaturschutzprogramm (VNP)**
+
+* Offenlandkartierung um Nesselwang und Pfronten (Ostallgäu) 2024\
+  ‒ Bissinger Landschaftsplanung, München
+  
+#### **Shiny dashboards**
+
+* [Monitoring Donaudeiche](https://markusbauer.shinyapps.io/shiny_app_map_danube/)
+
+::: {.column-screen style="background-color:#0d730d; color:white"}
+
+::: {.column-body}
+
+<style>
+.column-screen a {
+  color: white;
+  text-decoration: underline; /* optional, für bessere Sichtbarkeit */
+}
+</style>
+
+
+#### **Partner**
+
+* <a href="https://natur-perspektiven.de/" style="color: white;">Natur Perspektiven</a>
+* <a href="https://www.jestaedt-partner.de/" style="color: white;">JESTAEDT + Partner</a>
+* <a href="https://www.terralimna.de/" style="color: white;">terra limna</a>
+<br>
+
+:::
+
+:::

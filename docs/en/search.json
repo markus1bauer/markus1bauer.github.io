@@ -2,8 +2,155 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Landschaftsökologie Bauer",
+    "title": "Research",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n&lt;script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'&gt;&lt;/script&gt;\n\n&lt;div class='altmetric-embed' data-badge-type='donut' data-doi=\"10.1016/j.baae.2019.11.003\"&gt;&lt;/div&gt;\n\n\n\n Back to top"
+    "text": "Salvio-Arrhenatheretum © Markus Bauer\n\n\n\n\n\n\n\n\nDr. rer. nat. Markus Bauer (English)\n\nResearcher | Technical University of Munich  Self-employed vegetation mapper | Landschaftsökologie Bauer \n     \n\n\nAbout\nI am an ecologist interested in the predictable development of target vegetation through ecological restoration approaches. This should lead to increased biodiversity in degraded protected areas and in modern landscape features that can therefore contribute to green infrastructure.  Furthermore, I am a freelance vegetation mapper in southern Bavaria for forest and grassland in the context of monitoring projects and biotope mapping. I also create monitoring concepts and work with GNSS for the exact localisation of permanent plots.\n\n\nÜber\nIch bin ein freiberuflicher Vegetationskartierer in Südbayern für Wald und Offenland im Rahmen von Monitoringarbeiten und Biotopkartierungen. Außerdem erstelle ich Monitoringkonzepte und arbeite mit GNSS für ein exakte Verortung von Dauerbeobachtungsflächen.  Außerdem bin ich Ökologe und interessiere mich für das Thema der zuverlässigen Entwicklung der Zielvegetation durch Renaturierung. Dies soll zu einer erhöhten biologischen Vielfalt in degradierten Schutzgebieten und in modernen Landschaftselementen führen, die so zur grünen Infrastruktur beitragen können.\n \n\n\n\nResearch\n\n\n\n\n  Grassland Ecology\n\n\n\n\n  Community Ecology\n\n\n\n\n  Restoration Ecology\n\n\n\n\n\n\n\nPublications\n\n\nAffiliation\nPostoctoral researcher\nTechnical University of Munich  TUM School of Life Science  Chair of Restoration Ecology\nEmil-Ramann-Straße 6  85354 Freising-Weihenstephan  Germany\nTel. +49 8161 712 493  markus1.bauer[at]tum.de  www.lss.ls.tum.de/roek  Homepage/Profile\n\n\nMemberships\nInternational Association of Vegetation Science (IAVS)  Ecological Society of Germany, Austria and Switzerland (GfÖ)  Floristisch-soziologische Arbeitsgemeinschaft (FlorSoz)  Bavarian Botanical Society (BBG)  \n\n\nLandschafts­ökologie Bauer\n\n\n\n\n\n  Vegetations­kartierung\n\n\n\n\n  Statistische Datenanalyse\n\n\n\n\n  Monitoring und Literatur­studien\n\n\n\n\n\n\n\nVegetationskartierung\n\nBNT-Kartierung (BayKompV)\nFFH-Lebensraumtypen\nBaumbestandspläne\nFloristisch-vegetationskundliche Aufnahmen\n\nPopulationserfassung\nErfolgskontrolle und Dauerbeobachtungsflächen\nGNSS-Sensor ppm10xx (Genauigkeit 1 cm)\n\n\n\n\nStatistische Datenanalyse\n\nDatenauswertung mit R\n\nMaschinenlesbare Aufbereitung\nAbbildungserstellung\n\nGIS mit QGIS und R\n\nDigitalisierung von Vektordaten\nRäumliche Analysen\nKartendarsellung\n\nDashboards mit Shiny\n\n\n\nMonitoringkonzepte und Literaturstudien\n\nErstellung von Monitorinkonzepten\n\nrepräsentative Aufnahmeverteilung; statistisch auswertbar\n\nLiteraturrecherche zu Forschungsfragen\nErstellung von Publikationen für Fachzeitschriften wie ANLiegen Natur\n\n\n\nReferenzen\n\n\nMitgliedschaften\nBundesverband Beruflicher Naturschutz (BBN)\n \n\n\nKontakt\n\n\n\n\n\nLandschafts­ökologie Bauer  85354 Freising  Deutschland\n\n\n\n\n\nlandschafts­oekologie-bauer­@mailbox.org\n\n\n\n\n\n0049 152 5639 1781\n\n\n\n\n\n\n\n\n\n\n\n\nCirsio-Bracypodion pinnati © Markus Bauer\n\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "4_impressum.html",
+    "href": "4_impressum.html",
+    "title": "Impressum",
+    "section": "",
+    "text": "Angaben gemäß §5 TMG\nName des Unternehmens  Markus Bauer (Freiberuflich)  Landschaftsökologie Bauer\nUmsatzsteuer-ID: 115/202/93282\nEingetragener Firmensitz  Henkelstraße 19, 85354 Freising, DE\nKontaktinformationen  Telefon: +49 (0)152 5639 1781  E-Mail: landschaftsoekologie-bauer@mailbox.org\nAngaben zur Privathaftpflichtversicherung Name und Sitz des Versicherers:\nHUK24 AG  Willi-Hussong-Straße 2  96440 Coburg\nGeltungsraum der Versicherung:  Deutschland\nVerbraucherstreitbeilegung Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: https://ec.europa.eu/consumers/odr/ Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.\nQuelle Impressumsvorlage: eRecht24\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "2_publikationen.html",
+    "href": "2_publikationen.html",
+    "title": "Research interests",
+    "section": "",
+    "text": "Google Scholar\nThe purpose of my research is to predictably achieve a certain target state of vegetation through ecological restoration. The target state can be a certain functional diversity or a certain species composition. In order to achieve the target state, the dispersal, abiotic and biotic filters should be modified with the help of restoration measures. The target state is not defined as a point but as a target area or habitat type (e.g. low altitude hay meadows (R22) or semi-dry calcareous grasslands (R1A)) and thus implies spatial variation and temporal turnover. (cf. Cousens 2024 about goal setting)\n\n\nI study the interactions of the species pool (e.g. size or composition), dispersal (e.g. distance to next habitat or seeding density), abiotic (e.g. soil productivity), and biotic filters (e.g. management or invasive species)\n\n\n\n\n\nBauer et al. (2023) J Appl Ecol\n\n\n\n\n\n\nBauer M, Huber JK, Kollmann J (2023) Fit by design: Developing seed–substrate combinations to adapt dike grasslands to microclimatic variation. – Journal of Applied Ecology 60, 2413–2424. https://doi.org/10.1111/1365-2664.14497\nTeixeira LH*, Bauer M*, Moosner M, Kollmann J (2023) River dike grasslands can reconcile biodiversity and different ecosystem services to provide multifunctionality. – Basic and Applied Ecology 66, 22–30. \n\n\n\n\nI am interested vegetation change over time containing of annual balanced turnover and directional change. This is important for the evaluation of reference sites as well as to identify unhelpful resilience of degraded sites under restoration.\n\n\n\n\n\nBauer et al. (2024) J Veg Sci\n\n\n\n\n\n\nBauer M, Huber JK, Kollmann J (2024) Beta diversity of restored river dike grasslands is strongly influenced by uncontrolled spatio-temporal variability. – Journal of Vegetation Science 35, e13293. \nBauer M & Albrecht H (2020) Vegetation monitoring in a 100-year-old calcareous grassland reserve in Germany. – Basic and Applied Ecology 42, 15–26. \nBauer M, Harzer R, Strobl K & Kollmann J (2018) Resilience of riparian vegetation after restoration measures on River Inn. – River Research and Applications 35, 451–460."
+  },
+  {
+    "objectID": "2_publikationen.html#community-assembly-for-restoration",
+    "href": "2_publikationen.html#community-assembly-for-restoration",
+    "title": "Research interests",
+    "section": "",
+    "text": "I study the interactions of the species pool (e.g. size or composition), dispersal (e.g. distance to next habitat or seeding density), abiotic (e.g. soil productivity), and biotic filters (e.g. management or invasive species)\n\n\n\n\n\nBauer et al. (2023) J Appl Ecol\n\n\n\n\n\n\nBauer M, Huber JK, Kollmann J (2023) Fit by design: Developing seed–substrate combinations to adapt dike grasslands to microclimatic variation. – Journal of Applied Ecology 60, 2413–2424. https://doi.org/10.1111/1365-2664.14497\nTeixeira LH*, Bauer M*, Moosner M, Kollmann J (2023) River dike grasslands can reconcile biodiversity and different ecosystem services to provide multifunctionality. – Basic and Applied Ecology 66, 22–30."
+  },
+  {
+    "objectID": "2_publikationen.html#vegetation-dynamics",
+    "href": "2_publikationen.html#vegetation-dynamics",
+    "title": "Research interests",
+    "section": "",
+    "text": "I am interested vegetation change over time containing of annual balanced turnover and directional change. This is important for the evaluation of reference sites as well as to identify unhelpful resilience of degraded sites under restoration.\n\n\n\n\n\nBauer et al. (2024) J Veg Sci\n\n\n\n\n\n\nBauer M, Huber JK, Kollmann J (2024) Beta diversity of restored river dike grasslands is strongly influenced by uncontrolled spatio-temporal variability. – Journal of Vegetation Science 35, e13293. \nBauer M & Albrecht H (2020) Vegetation monitoring in a 100-year-old calcareous grassland reserve in Germany. – Basic and Applied Ecology 42, 15–26. \nBauer M, Harzer R, Strobl K & Kollmann J (2018) Resilience of riparian vegetation after restoration measures on River Inn. – River Research and Applications 35, 451–460."
+  },
+  {
+    "objectID": "3_referenzen.html",
+    "href": "3_referenzen.html",
+    "title": "Referenzen Landschaftsökologie Bauer",
+    "section": "",
+    "text": "Referenzen Landschaftsökologie Bauer\nGerman version only\n\n\n\n\n\n\nBromion erecti © Markus Bauer\n\n\n\n\n\n\nMonitoring\n\nLangwieder Heide Kerngebiet und Erweiterung, München-Langwied, 2025\n‒ Landesbund für Vogelschutz (LBV), Kreisgruppe München\nMonitoring auf Ausgleichsflächen, München-Langwied, 2024\n‒ Jestaedt + Partner, München\nBundeswaldinventur (BWI) ‒ Vegetationsmonitoring Bayern 2023 (≈ Los 8) Braun-Blanquet-Aufnahmen auf Dauerbeobachtungsflächen, die als FFH-LRT markiert waren\n‒ Projekt vom Bundesamt für Naturschutz\n‒ Beauftragt durch Hochschule Weihenstephan-Triesdorf (Prof. Dr. Jörg Ewald)\nPEPL Garchinger Heide ‒ Vegetationsmonitoring 2021 Konzeptentwicklung und Erstaufnahme des Monitorings im Rahmen des PEPL\n‒ Heideflächenverein Münchner Norden e.V. / Technische Universität München\n\n\n\nKartierung Biotop- und Nutzungstypen (BNT) (Auswahl)\n\nMünchen Stadtgebiet, U-Bahnverlängerung Pasing-Freiham, 2025, 238 ha\n‒ Projekt der Stadt München\n‒ Natur Perspektiven, Marzling\nGrünland München-Riem, 2024, 9 ha\n‒ Jestaedt + Partner, München\nBPlan 163, Freising-Lerchenfeld, 2024, 4 ha\n‒ Natur Perspektiven, Marzling\nMax-Planck-Campus, Martinsried, München, 2023, 35 ha\n‒ Natur Perspektiven, Marzling\n\n\n\nBiotopkartierung\n\nPionierübungsplatz Krailling 2023, 70 ha\n‒ Vorbereitung für Bayern-Netz-Natur-Projekt\n‒ Natur Perspektiven, Marzling\nFortbildung: Kurs Biotopkartierung 2023 (5 Tage)\n‒ Bayerische Akademie für Naturschutz und Landschaftspflege (ANL), Rosenheim\nMähwiesenkartierung Lkr. Aichach 2022 ‒ Kartierung zur Potentialabschätzung\n‒ peb, Dachau\n\n\n\nVertragsnaturschutzprogramm (VNP)\n\nOffenlandkartierung um Nesselwang und Pfronten (Ostallgäu) 2024\n‒ Bissinger Landschaftsplanung, München\n\n\n\nShiny dashboards\n\nMonitoring Donaudeiche\n\n\n\n\n\nPartner\n\nNatur Perspektiven\nJESTAEDT + Partner\nterra limna \n\n\n\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "5_datenschutz.html",
+    "href": "5_datenschutz.html",
+    "title": "Datenschutzerklärung",
+    "section": "",
+    "text": "Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen Sie unserer unter diesem Text aufgeführten Datenschutzerklärung.\n\n\n\n\n\n\n\nDie Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten können Sie dem Abschnitt „Hinweis zur Verantwortlichen Stelle“ in dieser Datenschutzerklärung entnehmen.\n\n\n\n\n\nIhre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen. Hierbei kann es sich z. B. um Daten handeln, die Sie in ein Kontaktformular eingeben.\n\n\nAndere Daten werden automatisch oder nach Ihrer Einwilligung beim Besuch der Website durch unsere IT-Systeme erfasst. Das sind vor allem technische Daten (z. B. Internetbrowser, Betriebssystem oder Uhrzeit des Seitenaufrufs). Die Erfassung dieser Daten erfolgt automatisch, sobald Sie diese Website betreten.\n\n\n\n\n\nEin Teil der Daten wird erhoben, um eine fehlerfreie Bereitstellung der Website zu gewährleisten. Andere Daten können zur Analyse Ihres Nutzerverhaltens verwendet werden. Sofern über die Website Verträge geschlossen oder angebahnt werden können, werden die übermittelten Daten auch für Vertragsangebote, Bestellungen oder sonstige Auftragsanfragen verarbeitet.\n\n\n\n\n\nSie haben jederzeit das Recht, unentgeltlich Auskunft über Herkunft, Empfänger und Zweck Ihrer gespeicherten personenbezogenen Daten zu erhalten. Sie haben außerdem ein Recht, die Berichtigung oder Löschung dieser Daten zu verlangen. Wenn Sie eine Einwilligung zur Datenverarbeitung erteilt haben, können Sie diese Einwilligung jederzeit für die Zukunft widerrufen. Außerdem haben Sie das Recht, unter bestimmten Umständen die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen. Des Weiteren steht Ihnen ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu.\n\n\nHierzu sowie zu weiteren Fragen zum Thema Datenschutz können Sie sich jederzeit an uns wenden."
+  },
+  {
+    "objectID": "5_datenschutz.html#allgemeine-hinweise",
+    "href": "5_datenschutz.html#allgemeine-hinweise",
+    "title": "Datenschutzerklärung",
+    "section": "",
+    "text": "Die folgenden Hinweise geben einen einfachen Überblick darüber, was mit Ihren personenbezogenen Daten passiert, wenn Sie diese Website besuchen. Personenbezogene Daten sind alle Daten, mit denen Sie persönlich identifiziert werden können. Ausführliche Informationen zum Thema Datenschutz entnehmen Sie unserer unter diesem Text aufgeführten Datenschutzerklärung."
+  },
+  {
+    "objectID": "5_datenschutz.html#datenerfassung-auf-dieser-website",
+    "href": "5_datenschutz.html#datenerfassung-auf-dieser-website",
+    "title": "Datenschutzerklärung",
+    "section": "",
+    "text": "Die Datenverarbeitung auf dieser Website erfolgt durch den Websitebetreiber. Dessen Kontaktdaten können Sie dem Abschnitt „Hinweis zur Verantwortlichen Stelle“ in dieser Datenschutzerklärung entnehmen.\n\n\n\n\n\nIhre Daten werden zum einen dadurch erhoben, dass Sie uns diese mitteilen. Hierbei kann es sich z. B. um Daten handeln, die Sie in ein Kontaktformular eingeben.\n\n\nAndere Daten werden automatisch oder nach Ihrer Einwilligung beim Besuch der Website durch unsere IT-Systeme erfasst. Das sind vor allem technische Daten (z. B. Internetbrowser, Betriebssystem oder Uhrzeit des Seitenaufrufs). Die Erfassung dieser Daten erfolgt automatisch, sobald Sie diese Website betreten.\n\n\n\n\n\nEin Teil der Daten wird erhoben, um eine fehlerfreie Bereitstellung der Website zu gewährleisten. Andere Daten können zur Analyse Ihres Nutzerverhaltens verwendet werden. Sofern über die Website Verträge geschlossen oder angebahnt werden können, werden die übermittelten Daten auch für Vertragsangebote, Bestellungen oder sonstige Auftragsanfragen verarbeitet.\n\n\n\n\n\nSie haben jederzeit das Recht, unentgeltlich Auskunft über Herkunft, Empfänger und Zweck Ihrer gespeicherten personenbezogenen Daten zu erhalten. Sie haben außerdem ein Recht, die Berichtigung oder Löschung dieser Daten zu verlangen. Wenn Sie eine Einwilligung zur Datenverarbeitung erteilt haben, können Sie diese Einwilligung jederzeit für die Zukunft widerrufen. Außerdem haben Sie das Recht, unter bestimmten Umständen die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen. Des Weiteren steht Ihnen ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu.\n\n\nHierzu sowie zu weiteren Fragen zum Thema Datenschutz können Sie sich jederzeit an uns wenden."
+  },
+  {
+    "objectID": "5_datenschutz.html#externes-hosting",
+    "href": "5_datenschutz.html#externes-hosting",
+    "title": "Datenschutzerklärung",
+    "section": "Externes Hosting",
+    "text": "Externes Hosting\n\nDiese Website wird extern gehostet. Die personenbezogenen Daten, die auf dieser Website erfasst werden, werden auf den Servern des Hosters / der Hoster gespeichert. Hierbei kann es sich v. a. um IP-Adressen, Kontaktanfragen, Meta- und Kommunikationsdaten, Vertragsdaten, Kontaktdaten, Namen, Websitezugriffe und sonstige Daten, die über eine Website generiert werden, handeln.\n\n\nDas externe Hosting erfolgt zum Zwecke der Vertragserfüllung gegenüber unseren potenziellen und bestehenden Kunden (Art. 6 Abs. 1 lit. b DSGVO) und im Interesse einer sicheren, schnellen und effizienten Bereitstellung unseres Online-Angebots durch einen professionellen Anbieter (Art. 6 Abs. 1 lit. f DSGVO). Sofern eine entsprechende Einwilligung abgefragt wurde, erfolgt die Verarbeitung ausschließlich auf Grundlage von Art. 6 Abs. 1 lit. a DSGVO und § 25 Abs. 1 TDDDG, soweit die Einwilligung die Speicherung von Cookies oder den Zugriff auf Informationen im Endgerät des Nutzers (z. B. Device-Fingerprinting) im Sinne des TDDDG umfasst. Die Einwilligung ist jederzeit widerrufbar.\n\n\nUnser(e) Hoster wird bzw. werden Ihre Daten nur insoweit verarbeiten, wie dies zur Erfüllung seiner Leistungspflichten erforderlich ist und unsere Weisungen in Bezug auf diese Daten befolgen.\n\n\nWir setzen folgenden Hoster ein:\n\n\nGithub Inc. 88 Colin P Kelly Jr St San Francisco California 94107"
+  },
+  {
+    "objectID": "5_datenschutz.html#datenschutz",
+    "href": "5_datenschutz.html#datenschutz",
+    "title": "Datenschutzerklärung",
+    "section": "Datenschutz",
+    "text": "Datenschutz\n\nDie Betreiber dieser Seiten nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend den gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung.\n\n\nWenn Sie diese Website benutzen, werden verschiedene personenbezogene Daten erhoben. Personenbezogene Daten sind Daten, mit denen Sie persönlich identifiziert werden können. Die vorliegende Datenschutzerklärung erläutert, welche Daten wir erheben und wofür wir sie nutzen. Sie erläutert auch, wie und zu welchem Zweck das geschieht.\n\n\nWir weisen darauf hin, dass die Datenübertragung im Internet (z. B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich."
+  },
+  {
+    "objectID": "5_datenschutz.html#hinweis-zur-verantwortlichen-stelle",
+    "href": "5_datenschutz.html#hinweis-zur-verantwortlichen-stelle",
+    "title": "Datenschutzerklärung",
+    "section": "Hinweis zur verantwortlichen Stelle",
+    "text": "Hinweis zur verantwortlichen Stelle\n\nDie verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:\n\n\nLandschaftsökologie Bauer  Markus Bauer  Henkelstraße 19, 85354 Freising, DE\n\n\nTelefon: 0049 152 5639 1781  E-Mail: landschaftsoekologie-bauer@mailbox.org\n\n\nVerantwortliche Stelle ist die natürliche oder juristische Person, die allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z. B. Namen, E-Mail-Adressen o. Ä.) entscheidet."
+  },
+  {
+    "objectID": "5_datenschutz.html#speicherdauer",
+    "href": "5_datenschutz.html#speicherdauer",
+    "title": "Datenschutzerklärung",
+    "section": "Speicherdauer",
+    "text": "Speicherdauer\n\nSoweit innerhalb dieser Datenschutzerklärung keine speziellere Speicherdauer genannt wurde, verbleiben Ihre personenbezogenen Daten bei uns, bis der Zweck für die Datenverarbeitung entfällt. Wenn Sie ein berechtigtes Löschersuchen geltend machen oder eine Einwilligung zur Datenverarbeitung widerrufen, werden Ihre Daten gelöscht, sofern wir keine anderen rechtlich zulässigen Gründe für die Speicherung Ihrer personenbezogenen Daten haben (z. B. steuer- oder handelsrechtliche Aufbewahrungsfristen); im letztgenannten Fall erfolgt die Löschung nach Fortfall dieser Gründe."
+  },
+  {
+    "objectID": "5_datenschutz.html#allgemeine-hinweise-zu-den-rechtsgrundlagen-der-datenverarbeitung-auf-dieser-website",
+    "href": "5_datenschutz.html#allgemeine-hinweise-zu-den-rechtsgrundlagen-der-datenverarbeitung-auf-dieser-website",
+    "title": "Datenschutzerklärung",
+    "section": "Allgemeine Hinweise zu den Rechtsgrundlagen der Datenverarbeitung auf dieser Website",
+    "text": "Allgemeine Hinweise zu den Rechtsgrundlagen der Datenverarbeitung auf dieser Website\n\nSofern Sie in die Datenverarbeitung eingewilligt haben, verarbeiten wir Ihre personenbezogenen Daten auf Grundlage von Art. 6 Abs. 1 lit. a DSGVO bzw. Art. 9 Abs. 2 lit. a DSGVO, sofern besondere Datenkategorien nach Art. 9 Abs. 1 DSGVO verarbeitet werden. Im Falle einer ausdrücklichen Einwilligung in die Übertragung personenbezogener Daten in Drittstaaten erfolgt die Datenverarbeitung außerdem auf Grundlage von Art. 49 Abs. 1 lit. a DSGVO. Sofern Sie in die Speicherung von Cookies oder in den Zugriff auf Informationen in Ihr Endgerät (z. B. via Device-Fingerprinting) eingewilligt haben, erfolgt die Datenverarbeitung zusätzlich auf Grundlage von § 25 Abs. 1 TDDDG. Die Einwilligung ist jederzeit widerrufbar. Sind Ihre Daten zur Vertragserfüllung oder zur Durchführung vorvertraglicher Maßnahmen erforderlich, verarbeiten wir Ihre Daten auf Grundlage des Art. 6 Abs. 1 lit. b DSGVO. Des Weiteren verarbeiten wir Ihre Daten, sofern diese zur Erfüllung einer rechtlichen Verpflichtung erforderlich sind auf Grundlage von Art. 6 Abs. 1 lit. c DSGVO. Die Datenverarbeitung kann ferner auf Grundlage unseres berechtigten Interesses nach Art. 6 Abs. 1 lit. f DSGVO erfolgen. Über die jeweils im Einzelfall einschlägigen Rechtsgrundlagen wird in den folgenden Absätzen dieser Datenschutzerklärung informiert."
+  },
+  {
+    "objectID": "5_datenschutz.html#empfänger-von-personenbezogenen-daten",
+    "href": "5_datenschutz.html#empfänger-von-personenbezogenen-daten",
+    "title": "Datenschutzerklärung",
+    "section": "Empfänger von personenbezogenen Daten",
+    "text": "Empfänger von personenbezogenen Daten\n\nIm Rahmen unserer Geschäftstätigkeit arbeiten wir mit verschiedenen externen Stellen zusammen. Dabei ist teilweise auch eine Übermittlung von personenbezogenen Daten an diese externen Stellen erforderlich. Wir geben personenbezogene Daten nur dann an externe Stellen weiter, wenn dies im Rahmen einer Vertragserfüllung erforderlich ist, wenn wir gesetzlich hierzu verpflichtet sind (z. B. Weitergabe von Daten an Steuerbehörden), wenn wir ein berechtigtes Interesse nach Art. 6 Abs. 1 lit. f DSGVO an der Weitergabe haben oder wenn eine sonstige Rechtsgrundlage die Datenweitergabe erlaubt. Beim Einsatz von Auftragsverarbeitern geben wir personenbezogene Daten unserer Kunden nur auf Grundlage eines gültigen Vertrags über Auftragsverarbeitung weiter. Im Falle einer gemeinsamen Verarbeitung wird ein Vertrag über gemeinsame Verarbeitung geschlossen."
+  },
+  {
+    "objectID": "5_datenschutz.html#widerruf-ihrer-einwilligung-zur-datenverarbeitung",
+    "href": "5_datenschutz.html#widerruf-ihrer-einwilligung-zur-datenverarbeitung",
+    "title": "Datenschutzerklärung",
+    "section": "Widerruf Ihrer Einwilligung zur Datenverarbeitung",
+    "text": "Widerruf Ihrer Einwilligung zur Datenverarbeitung\n\nViele Datenverarbeitungsvorgänge sind nur mit Ihrer ausdrücklichen Einwilligung möglich. Sie können eine bereits erteilte Einwilligung jederzeit widerrufen. Die Rechtmäßigkeit der bis zum Widerruf erfolgten Datenverarbeitung bleibt vom Widerruf unberührt."
+  },
+  {
+    "objectID": "5_datenschutz.html#widerspruchsrecht-gegen-die-datenerhebung-in-besonderen-fällen-sowie-gegen-direktwerbung-art.-21-dsgvo",
+    "href": "5_datenschutz.html#widerspruchsrecht-gegen-die-datenerhebung-in-besonderen-fällen-sowie-gegen-direktwerbung-art.-21-dsgvo",
+    "title": "Datenschutzerklärung",
+    "section": "Widerspruchsrecht gegen die Datenerhebung in besonderen Fällen sowie gegen Direktwerbung (Art. 21 DSGVO)",
+    "text": "Widerspruchsrecht gegen die Datenerhebung in besonderen Fällen sowie gegen Direktwerbung (Art. 21 DSGVO)\n\nWENN DIE DATENVERARBEITUNG AUF GRUNDLAGE VON ART. 6 ABS. 1 LIT. E ODER F DSGVO ERFOLGT, HABEN SIE JEDERZEIT DAS RECHT, AUS GRÜNDEN, DIE SICH AUS IHRER BESONDEREN SITUATION ERGEBEN, GEGEN DIE VERARBEITUNG IHRER PERSONENBEZOGENEN DATEN WIDERSPRUCH EINZULEGEN; DIES GILT AUCH FÜR EIN AUF DIESE BESTIMMUNGEN GESTÜTZTES PROFILING. DIE JEWEILIGE RECHTSGRUNDLAGE, AUF DENEN EINE VERARBEITUNG BERUHT, ENTNEHMEN SIE DIESER DATENSCHUTZERKLÄRUNG. WENN SIE WIDERSPRUCH EINLEGEN, WERDEN WIR IHRE BETROFFENEN PERSONENBEZOGENEN DATEN NICHT MEHR VERARBEITEN, ES SEI DENN, WIR KÖNNEN ZWINGENDE SCHUTZWÜRDIGE GRÜNDE FÜR DIE VERARBEITUNG NACHWEISEN, DIE IHRE INTERESSEN, RECHTE UND FREIHEITEN ÜBERWIEGEN ODER DIE VERARBEITUNG DIENT DER GELTENDMACHUNG, AUSÜBUNG ODER VERTEIDIGUNG VON RECHTSANSPRÜCHEN (WIDERSPRUCH NACH ART. 21 ABS. 1 DSGVO).\n\n\nWERDEN IHRE PERSONENBEZOGENEN DATEN VERARBEITET, UM DIREKTWERBUNG ZU BETREIBEN, SO HABEN SIE DAS RECHT, JEDERZEIT WIDERSPRUCH GEGEN DIE VERARBEITUNG SIE BETREFFENDER PERSONENBEZOGENER DATEN ZUM ZWECKE DERARTIGER WERBUNG EINZULEGEN; DIES GILT AUCH FÜR DAS PROFILING, SOWEIT ES MIT SOLCHER DIREKTWERBUNG IN VERBINDUNG STEHT. WENN SIE WIDERSPRECHEN, WERDEN IHRE PERSONENBEZOGENEN DATEN ANSCHLIESSEND NICHT MEHR ZUM ZWECKE DER DIREKTWERBUNG VERWENDET (WIDERSPRUCH NACH ART. 21 ABS. 2 DSGVO)."
+  },
+  {
+    "objectID": "5_datenschutz.html#beschwerderecht-bei-der-zuständigen-aufsichtsbehörde",
+    "href": "5_datenschutz.html#beschwerderecht-bei-der-zuständigen-aufsichtsbehörde",
+    "title": "Datenschutzerklärung",
+    "section": "Beschwerde­recht bei der zuständigen Aufsichts­behörde",
+    "text": "Beschwerde­recht bei der zuständigen Aufsichts­behörde\n\nIm Falle von Verstößen gegen die DSGVO steht den Betroffenen ein Beschwerderecht bei einer Aufsichtsbehörde, insbesondere in dem Mitgliedstaat ihres gewöhnlichen Aufenthalts, ihres Arbeitsplatzes oder des Orts des mutmaßlichen Verstoßes zu. Das Beschwerderecht besteht unbeschadet anderweitiger verwaltungsrechtlicher oder gerichtlicher Rechtsbehelfe."
+  },
+  {
+    "objectID": "5_datenschutz.html#recht-auf-datenübertragbarkeit",
+    "href": "5_datenschutz.html#recht-auf-datenübertragbarkeit",
+    "title": "Datenschutzerklärung",
+    "section": "Recht auf Daten­übertrag­barkeit",
+    "text": "Recht auf Daten­übertrag­barkeit\n\nSie haben das Recht, Daten, die wir auf Grundlage Ihrer Einwilligung oder in Erfüllung eines Vertrags automatisiert verarbeiten, an sich oder an einen Dritten in einem gängigen, maschinenlesbaren Format aushändigen zu lassen. Sofern Sie die direkte Übertragung der Daten an einen anderen Verantwortlichen verlangen, erfolgt dies nur, soweit es technisch machbar ist."
+  },
+  {
+    "objectID": "5_datenschutz.html#auskunft-berichtigung-und-löschung",
+    "href": "5_datenschutz.html#auskunft-berichtigung-und-löschung",
+    "title": "Datenschutzerklärung",
+    "section": "Auskunft, Berichtigung und Löschung",
+    "text": "Auskunft, Berichtigung und Löschung\n\nSie haben im Rahmen der geltenden gesetzlichen Bestimmungen jederzeit das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen Daten, deren Herkunft und Empfänger und den Zweck der Datenverarbeitung und ggf. ein Recht auf Berichtigung oder Löschung dieser Daten. Hierzu sowie zu weiteren Fragen zum Thema personenbezogene Daten können Sie sich jederzeit an uns wenden."
+  },
+  {
+    "objectID": "5_datenschutz.html#recht-auf-einschränkung-der-verarbeitung",
+    "href": "5_datenschutz.html#recht-auf-einschränkung-der-verarbeitung",
+    "title": "Datenschutzerklärung",
+    "section": "Recht auf Einschränkung der Verarbeitung",
+    "text": "Recht auf Einschränkung der Verarbeitung\n\nSie haben das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen. Hierzu können Sie sich jederzeit an uns wenden. Das Recht auf Einschränkung der Verarbeitung besteht in folgenden Fällen:\n\n\n\nWenn Sie die Richtigkeit Ihrer bei uns gespeicherten personenbezogenen Daten bestreiten, benötigen wir in der Regel Zeit, um dies zu überprüfen. Für die Dauer der Prüfung haben Sie das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.\n\n\nWenn die Verarbeitung Ihrer personenbezogenen Daten unrechtmäßig geschah/geschieht, können Sie statt der Löschung die Einschränkung der Datenverarbeitung verlangen.\n\n\nWenn wir Ihre personenbezogenen Daten nicht mehr benötigen, Sie sie jedoch zur Ausübung, Verteidigung oder Geltendmachung von Rechtsansprüchen benötigen, haben Sie das Recht, statt der Löschung die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.\n\n\nWenn Sie einen Widerspruch nach Art. 21 Abs. 1 DSGVO eingelegt haben, muss eine Abwägung zwischen Ihren und unseren Interessen vorgenommen werden. Solange noch nicht feststeht, wessen Interessen überwiegen, haben Sie das Recht, die Einschränkung der Verarbeitung Ihrer personenbezogenen Daten zu verlangen.\n\n\n\nWenn Sie die Verarbeitung Ihrer personenbezogenen Daten eingeschränkt haben, dürfen diese Daten – von ihrer Speicherung abgesehen – nur mit Ihrer Einwilligung oder zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen oder zum Schutz der Rechte einer anderen natürlichen oder juristischen Person oder aus Gründen eines wichtigen öffentlichen Interesses der Europäischen Union oder eines Mitgliedstaats verarbeitet werden."
+  },
+  {
+    "objectID": "5_datenschutz.html#anfrage-per-e-mail-oder-telefon",
+    "href": "5_datenschutz.html#anfrage-per-e-mail-oder-telefon",
+    "title": "Datenschutzerklärung",
+    "section": "Anfrage per E-Mail oder Telefon",
+    "text": "Anfrage per E-Mail oder Telefon\n\nWenn Sie uns per E-Mail oder Telefon kontaktieren, wird Ihre Anfrage inklusive aller daraus hervorgehenden personenbezogenen Daten (Name, Anfrage) zum Zwecke der Bearbeitung Ihres Anliegens bei uns gespeichert und verarbeitet. Diese Daten geben wir nicht ohne Ihre Einwilligung weiter.\n\n\nDie Verarbeitung dieser Daten erfolgt auf Grundlage von Art. 6 Abs. 1 lit. b DSGVO, sofern Ihre Anfrage mit der Erfüllung eines Vertrags zusammenhängt oder zur Durchführung vorvertraglicher Maßnahmen erforderlich ist. In allen übrigen Fällen beruht die Verarbeitung auf unserem berechtigten Interesse an der effektiven Bearbeitung der an uns gerichteten Anfragen (Art. 6 Abs. 1 lit. f DSGVO) oder auf Ihrer Einwilligung (Art. 6 Abs. 1 lit. a DSGVO) sofern diese abgefragt wurde; die Einwilligung ist jederzeit widerrufbar.\n\n\nDie von Ihnen an uns per Kontaktanfragen übersandten Daten verbleiben bei uns, bis Sie uns zur Löschung auffordern, Ihre Einwilligung zur Speicherung widerrufen oder der Zweck für die Datenspeicherung entfällt (z. B. nach abgeschlossener Bearbeitung Ihres Anliegens). Zwingende gesetzliche Bestimmungen – insbesondere gesetzliche Aufbewahrungsfristen – bleiben unberührt.\n\n\nQuelle: https://www.e-recht24.de"
   }
 ]

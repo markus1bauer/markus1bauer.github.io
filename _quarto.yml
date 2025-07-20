@@ -17,9 +17,9 @@ website:
         text: " "
         href: index.qmd
       - text: "Research interests"
-        href: publications.qmd
+        href: 2_publikationen.qmd
       - text: "Referenzen"
-        href: referenzen.qmd
+        href: 3_referenzen.qmd
       - text: "Kontakt"
         href: index.qmd#sec-kontakt
       - icon: github
@@ -36,9 +36,9 @@ website:
         href: https://pages.github.com/
     right:
       - text: "Impressum"
-        href: impressum.qmd
+        href: 4_impressum.qmd
       - text: "Datenschutz"
-        href: datenschutz.qmd
+        href: 5_datenschutz.qmd
 
 format:
   html:
@@ -55,6 +55,6 @@ babelquarto:
   mainlanguage: 'de'
   languages: ['en']
 title-en: "Markus Bauer"
-description-en: description in en
+description-en: "Markus Bauer is postdoctoral scientist in restoration ecology at the Technical University of Munich"
 author-en: "Markus Bauer"
 lang: de

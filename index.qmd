@@ -101,7 +101,7 @@ Außerdem bin ich Ökologe und interessiere mich für das Thema der zuverlässig
 
 :::
 
-### [Publications](publications.qmd)
+### [Publications](2_publikationen.qmd)
 
 ### Affiliation
 
@@ -214,7 +214,7 @@ Bavarian Botanical Society ([BBG](https://www.bbgev.de/))
 *   Literaturrecherche zu Forschungsfragen
 *   Erstellung von Publikationen für Fachzeitschriften wie ANLiegen Natur
 
-### [Referenzen](referenzen.qmd)
+### [Referenzen](3_referenzen.qmd)
 
 ### Mitgliedschaften
 
