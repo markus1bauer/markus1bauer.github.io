@@ -46,13 +46,3 @@ format:
     monofont: Arial
     toc: FALSE
     
-lang: de
-
-languages:
-  de:
-    title: "Landschaftsökologie Bauer"
-    site-url: /de/
-  en:
-    title: "Markus Bauer"
-    site-url: /en/
-    
