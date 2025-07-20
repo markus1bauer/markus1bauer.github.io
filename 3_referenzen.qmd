@@ -1,7 +1,5 @@
 # Referenzen Landschaftsökologie Bauer
 
-German version only
-
 ::: {.column-screen style="background-color:#FFFFFF"}
 
 ```{r include=FALSE}

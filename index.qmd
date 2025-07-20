@@ -25,9 +25,9 @@ Dr. rer. nat.<br>
 **Markus Bauer**
 </p>
 
-Researcher | Technical University of Munich
+Wissenschaftler | Technische Universität München
 <br>
-Self-employed vegetation mapper | Landschaftsökologie Bauer
+Selbstständiger Vegetationskartierer | Landschaftsökologie Bauer
 <br>
 
 [`r fa(name = "square-github", fill = "black", height = "2em")`](https://github.com/markus1.bauer)
@@ -39,17 +39,11 @@ Self-employed vegetation mapper | Landschaftsökologie Bauer
 
 </center>
 
-### About
-
-I am an ecologist interested in the predictable development of target vegetation through ecological restoration approaches. This should lead to increased biodiversity in degraded protected areas and in modern landscape features that can therefore contribute to green infrastructure.
-<br>
-Furthermore, I am a freelance vegetation mapper in southern Bavaria for forest and grassland in the context of monitoring projects and biotope mapping. I also create monitoring concepts and work with GNSS for the exact localisation of permanent plots.
-
 ### Über
 
 Ich bin ein freiberuflicher Vegetationskartierer in Südbayern für Wald und Offenland im Rahmen von Monitoringarbeiten und Biotopkartierungen. Außerdem erstelle ich Monitoringkonzepte und arbeite mit GNSS für ein exakte Verortung von Dauerbeobachtungsflächen.
 <br>
-Außerdem bin ich Ökologe und interessiere mich für das Thema der zuverlässigen Entwicklung der Zielvegetation durch Renaturierung. Dies soll zu einer erhöhten biologischen Vielfalt in degradierten Schutzgebieten und in modernen Landschaftselementen führen, die so zur grünen Infrastruktur beitragen können.  
+Als Ökologe interessiere ich mich für das Thema der zuverlässigen Entwicklung der Zielvegetation durch Renaturierung. Dies soll zu einer erhöhten biologischen Vielfalt in degradierten Schutzgebieten und in modernen Landschaftselementen führen, die so zur grünen Infrastruktur beitragen können.  
 <br>
 <br>
 
@@ -103,15 +97,15 @@ Außerdem bin ich Ökologe und interessiere mich für das Thema der zuverlässig
 
 ### [Publications](2_publikationen.qmd)
 
-### Affiliation
+### Universität
 
-**Postoctoral researcher**
+**Wissenschaftler (Postdoc)**
 
-Technical University of Munich
+Technische Universität München
 <br>
 TUM School of Life Science
 <br>
-Chair of Restoration Ecology
+Lehrstuhl für Renaturierungsökologie
 
 Emil-Ramann-Straße 6
 <br>
@@ -119,25 +113,10 @@ Emil-Ramann-Straße 6
 <br>
 Germany 
 
-Tel. +49 8161 712 493 
 <br>
-markus1.bauer[at]tum.de 
+[www.lss.ls.tum.de/roek](www.lss.ls.tum.de/roek)
 <br>
-[www.lss.ls.tum.de/roek](www.lss.ls.tum.de/en/roek)
-<br>
-[Homepage/Profile](https://www.lss.ls.tum.de/en/roek/team/markus-bauer/)
-
-### Memberships
-
-International Association of Vegetation Science ([IAVS](https://www.iavs.org/))
-<br>
-Ecological Society of Germany, Austria and Switzerland ([GfÖ](https://gfoe.org/en/))
-<br>
-Floristisch-soziologische Arbeitsgemeinschaft ([FlorSoz](https://www.tuexenia.de/en/home-2/))
-<br>
-Bavarian Botanical Society ([BBG](https://www.bbgev.de/))
-<br>
-<br>
+[Homepage/Profile](https://www.lss.ls.tum.de/roek/team/markus-bauer/)
 
 ::: {.column-screen style="background-color:#0d730d"}
 
@@ -219,6 +198,17 @@ Bavarian Botanical Society ([BBG](https://www.bbgev.de/))
 ### Mitgliedschaften
 
 Bundesverband Beruflicher Naturschutz ([BBN](https://www.bbn-online.de/start))
+<br>
+International Association of Vegetation Science ([IAVS](https://www.iavs.org/))
+<br>
+Ecological Society of Germany, Austria and Switzerland ([GfÖ](https://gfoe.org/en/))
+<br>
+Floristisch-soziologische Arbeitsgemeinschaft ([FlorSoz](https://www.tuexenia.de/en/home-2/))
+<br>
+Bavarian Botanical Society ([BBG](https://www.bbgev.de/))
+<br>
+<br>
+
 
 <br>
 <br>
