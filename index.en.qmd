@@ -95,7 +95,7 @@ Furthermore, I am a freelance vegetation mapper in southern Bavaria for forest a
 
 :::
 
-### [Publications](forschung.en.qmd)
+### [Publications](forschung.qmd)
 
 ### Affiliation
 
