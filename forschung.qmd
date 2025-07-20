@@ -18,6 +18,7 @@ knitr::include_graphics(here::here("images", "20250718_1000012834.jpg"))
 The purpose of my research is to predictably achieve a certain target state of vegetation through ecological restoration. The target state can be a certain functional diversity or a certain species composition. In order to achieve the target state, the dispersal, abiotic and biotic filters should be modified with the help of restoration measures. The target state is not defined as a point but as a target area or habitat type (e.g. low altitude hay meadows ([R22](https://floraveg.eu/habitat/overview/R22)) or semi-dry calcareous grasslands ([R1A](https://floraveg.eu/habitat/overview/R1A))) and thus implies spatial variation and temporal turnover. (cf. Cousens [2024](https://bookdown.org/rogerdavidcousens/_book/why-a-hard-science-needs-strong-critique.html) about goal setting)
 <br>
 <br>
+
 ## Community assembly for restoration
 
 I study the interactions of the species pool (e.g. size or composition), dispersal (e.g. distance to next habitat or seeding density), abiotic (e.g. soil productivity), and biotic filters (e.g. management or invasive species)
@@ -34,6 +35,7 @@ knitr::include_graphics(here::here("images", "figure_3_300dpi_16.5x5cm.png"))
 Teixeira LH\*, **Bauer M**\*, Moosner M, Kollmann J (2023) River dike grasslands can reconcile biodiversity and different ecosystem services to provide multifunctionality. – *Basic and Applied Ecology* 66, 22–30. [![DOI:10.1016/j.baae.2022.12.001](http://img.shields.io/badge/DOI-10.1016/j.baae.2022.12.001-informational.svg)](https://doi.org/10.1016/j.baae.2022.12.001)
 <br>
 <br>
+
 ## Vegetationsdynamik
 
 I am interested vegetation change over time containing of annual balanced turnover and directional change. This is important for the evaluation of reference sites as well as to identify unhelpful resilience of degraded sites under restoration.
