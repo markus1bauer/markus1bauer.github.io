@@ -22,7 +22,7 @@ library(fontawesome)
 
 <p style="color:black;">
 Dr. rer. nat.<br>
-**Markus Bauer** (English)
+**Markus Bauer**
 </p>
 
 Researcher | Technical University of Munich
@@ -179,6 +179,12 @@ Bavarian Botanical Society ([BBG](https://www.bbgev.de/))
 :::
 
 :::
+
+### Contact
+
+Landschaftsökologie Bauer
+85354 Freising
+landschaftsoekologie-bauer@mailbox.org
 
 ::: {.column-screen style="background-color:#FFFFFF"}
 

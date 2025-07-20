@@ -49,9 +49,9 @@ format:
 babelquarto:
   languagecodes:
   - name: en
-    text: "EN"
+    text: "Researcher [EN]"
   - name: de
-    text: "DE"
+    text: "Kartierer [DE]"
   mainlanguage: 'de'
   languages: ['en']
 title-en: "Markus Bauer"

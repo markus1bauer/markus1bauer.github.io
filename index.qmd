@@ -25,9 +25,9 @@ Dr. rer. nat.<br>
 **Markus Bauer**
 </p>
 
-Wissenschaftler | Technische Universität München
-<br>
 Selbstständiger Vegetationskartierer | Landschaftsökologie Bauer
+<br>
+Wissenschaftler | Technische Universität München
 <br>
 
 [`r fa(name = "square-github", fill = "black", height = "2em")`](https://github.com/markus1.bauer)
@@ -48,75 +48,6 @@ Als Ökologe interessiere ich mich für das Thema der zuverlässigen Entwicklung
 <br>
 
 :::
-
-::: {.column-screen style="background-color:#0d730d"}
-
-# [Research]{style="color:white;"} {#sec-research}
-
-::: {.column-body}
-
-::: {style="display: grid; grid-template-columns: 27% 40% 23%; grid-column-gap: 5%;"}
-
-::: {}
-
-<center>
-![](images/grass_4123310_white.png){width=128}
-<br>
-[**Grassland Ecology**]{style="color:white;"}
-</center>
-
-:::
-
-::: {}
-
-<center>
-![](images/forest_15423883_white.png){width=128}
-<br>
-[**Community Ecology**]{style="color:white;"}
-</center>
-
-:::
-
-::: {}
-
-<center>
-![](images/landscape_4932762_white.png){width=128}
-<br>
-[**Restoration Ecology**]{style="color:white;"}
-</center>
-
-:::
-
-:::
-
-<br>
-
-:::
-
-:::
-
-### [Publications](2_publikationen.qmd)
-
-### Universität
-
-**Wissenschaftler (Postdoc)**
-
-Technische Universität München
-<br>
-TUM School of Life Science
-<br>
-Lehrstuhl für Renaturierungsökologie
-
-Emil-Ramann-Straße 6
-<br>
-85354 Freising-Weihenstephan
-<br>
-Germany 
-
-<br>
-[www.lss.ls.tum.de/roek](www.lss.ls.tum.de/roek)
-<br>
-[Homepage/Profile](https://www.lss.ls.tum.de/roek/team/markus-bauer/)
 
 ::: {.column-screen style="background-color:#0d730d"}
 
@@ -206,10 +137,76 @@ Ecological Society of Germany, Austria and Switzerland ([GfÖ](https://gfoe.org/
 Floristisch-soziologische Arbeitsgemeinschaft ([FlorSoz](https://www.tuexenia.de/en/home-2/))
 <br>
 Bavarian Botanical Society ([BBG](https://www.bbgev.de/))
+::: {.column-screen style="background-color:#0d730d"}
+
+# [Research]{style="color:white;"} {#sec-research}
+
+::: {.column-body}
+
+::: {style="display: grid; grid-template-columns: 27% 40% 23%; grid-column-gap: 5%;"}
+
+::: {}
+
+<center>
+![](images/grass_4123310_white.png){width=128}
 <br>
+[**Grassland Ecology**]{style="color:white;"}
+</center>
+
+:::
+
+::: {}
+
+<center>
+![](images/forest_15423883_white.png){width=128}
+<br>
+[**Community Ecology**]{style="color:white;"}
+</center>
+
+:::
+
+::: {}
+
+<center>
+![](images/landscape_4932762_white.png){width=128}
+<br>
+[**Restoration Ecology**]{style="color:white;"}
+</center>
+
+:::
+
+:::
+
 <br>
 
+:::
 
+:::
+
+### [Publikationen](2_publikationen.qmd)
+
+### Universität
+
+**Wissenschaftler (Postdoc)**
+
+Technische Universität München
+<br>
+TUM School of Life Science
+<br>
+Lehrstuhl für Renaturierungsökologie
+
+Emil-Ramann-Straße 6
+<br>
+85354 Freising-Weihenstephan
+<br>
+Germany 
+<br>
+[www.lss.ls.tum.de/roek](www.lss.ls.tum.de/roek)
+<br>
+[Homepage/Profile](https://www.lss.ls.tum.de/roek/team/markus-bauer/)
+
+<br>
+<br>
 <br>
 <br>
 
