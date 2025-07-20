@@ -130,13 +130,14 @@ Als Ökologe interessiere ich mich für das Thema der zuverlässigen Entwicklung
 
 Bundesverband Beruflicher Naturschutz ([BBN](https://www.bbn-online.de/start))
 <br>
-International Association of Vegetation Science ([IAVS](https://www.iavs.org/))
-<br>
-Ecological Society of Germany, Austria and Switzerland ([GfÖ](https://gfoe.org/en/))
+Bavarian Botanical Society ([BBG](https://www.bbgev.de/))
 <br>
 Floristisch-soziologische Arbeitsgemeinschaft ([FlorSoz](https://www.tuexenia.de/en/home-2/))
 <br>
-Bavarian Botanical Society ([BBG](https://www.bbgev.de/))
+Ecological Society of Germany, Austria and Switzerland ([GfÖ](https://gfoe.org/en/))
+<br>
+International Association of Vegetation Science ([IAVS](https://www.iavs.org/))
+
 ::: {.column-screen style="background-color:#0d730d"}
 
 # [Research]{style="color:white;"} {#sec-research}
