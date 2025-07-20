@@ -5,6 +5,10 @@ library(tidyverse)
 
 # Forschungsinteressen
 
+```{r Experiment, echo=FALSE, align="center", fig.cap="Experiment zur Renaturierung der Langgrasprärie, Michigan &copy; Lars Brudvig"}
+knitr::include_graphics(here::here("images", "20250718_1000012834.jpg"))
+```
+
 [Google Scholar](https://scholar.google.de/citations?hl=de&user=oHhmOkkAAAAJ){target="_blank"}
 
 The purpose of my research is to predictably achieve a certain target state of vegetation through ecological restoration. The target state can be a certain functional diversity or a certain species composition. In order to achieve the target state, the dispersal, abiotic and biotic filters should be modified with the help of restoration measures. The target state is not defined as a point but as a target area or habitat type (e.g. low altitude hay meadows ([R22](https://floraveg.eu/habitat/overview/R22)) or semi-dry calcareous grasslands ([R1A](https://floraveg.eu/habitat/overview/R1A))) and thus implies spatial variation and temporal turnover. (cf. Cousens [2024](https://bookdown.org/rogerdavidcousens/_book/why-a-hard-science-needs-strong-critique.html) about goal setting)
@@ -38,4 +42,8 @@ knitr::include_graphics(here::here("images", "figure_2_800dpi_16.5x11cm.png"))
 
 **Bauer M** & Albrecht H (2020) Vegetation monitoring in a 100-year-old calcareous grassland reserve in Germany. – *Basic and Applied Ecology* 42, 15–26. [![DOI:10.1016/j.baae.2019.11.003](http://img.shields.io/badge/DOI-10.1016/j.baae.2019.11.003-informational.svg)](https://doi.org/10.1016/j.baae.2019.11.003)
 
-**Bauer M**, Harzer R, Strobl K & Kollmann J (2018) Resilience of riparian vegetation after restoration measures on River Inn. – *River Research and Applications* 35, 451–460. [![DOI:10.1002/rra.3255](http://img.shields.io/badge/DOI-10.1002/rra.3255-informational.svg)](https://doi.org/10.1002/rra.3255) 
+**Bauer M**, Harzer R, Strobl K & Kollmann J (2018) Resilience of riparian vegetation after restoration measures on River Inn. – *River Research and Applications* 35, 451–460. [![DOI:10.1002/rra.3255](http://img.shields.io/badge/DOI-10.1002/rra.3255-informational.svg)](https://doi.org/10.1002/rra.3255)
+
+```{r Experiment2, echo=FALSE, align="center", fig.cap="Donaudeichexperiment &copy; Markus Bauer"}
+knitr::include_graphics(here::here("images", "20210716_111816.jpg"))
+```

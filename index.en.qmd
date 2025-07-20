@@ -4,7 +4,7 @@ lang: en
 
 ::: {.column-screen style="background-color:#FFFFFF"}
 
-```{r Salvio-Arrhenateretum, echo=FALSE, align="center", fig.cap="[Salvio-Arrhenatheretum](https://floraveg.eu/vegetation/overview/arrhenatherion) &copy; Markus Bauer"}
+```{r Salvio-Arrhenateretum, echo=FALSE, align="center", fig.cap="[Salvio-Arrhenatheretum](https://floraveg.eu/vegetation/overview/arrhenatherion), Wipelsfurt, GER &copy; Markus Bauer"}
 knitr::include_graphics(here::here("images", "titel.png"))
 ```
 
@@ -192,7 +192,7 @@ Further information under the German version of this website.
 
 ::: {.column-screen style="background-color:#FFFFFF"}
 
-```{r Festuco-Brometea, echo=FALSE, align="center", fig.cap="[Cirsio-Bracypodion pinnati](https://floraveg.eu/vegetation/overview/Cirsio-Brachypodion%20pinnati) &copy; Markus Bauer"}
+```{r Festuco-Brometea, echo=FALSE, align="center", fig.cap="[Cirsio-Bracypodion pinnati](https://floraveg.eu/vegetation/overview/Cirsio-Brachypodion%20pinnati), Kalbenstein, GER &copy; Markus Bauer"}
 knitr::include_graphics(here("images", "20210603_144806.jpg"))
 ```
 

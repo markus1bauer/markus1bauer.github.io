@@ -4,8 +4,8 @@ lang: de
 
 ::: {.column-screen style="background-color:#FFFFFF"}
 
-```{r Salvio-Arrhenateretum, echo=FALSE, align="center", fig.cap="[Salvio-Arrhenatheretum](https://floraveg.eu/vegetation/overview/arrhenatherion) &copy; Markus Bauer"}
-knitr::include_graphics(here::here("images", "titel.png"))
+```{r Salvio-Arrhenateretum, echo=FALSE, align="center", fig.cap="[Salvio-Arrhenatheretum](https://floraveg.eu/vegetation/overview/arrhenatherion), Wipelsfurt &copy; Markus Bauer"}
+knitr::include_graphics(here::here("images", "titel4.jpg"))
 ```
 
 :::
@@ -137,10 +137,12 @@ Floristisch-soziologische Arbeitsgemeinschaft ([FlorSoz](https://www.tuexenia.de
 Ecological Society of Germany, Austria and Switzerland ([GfÖ](https://gfoe.org/en/))
 <br>
 International Association of Vegetation Science ([IAVS](https://www.iavs.org/))
+<br>
+<br>
 
 ::: {.column-screen style="background-color:#0d730d"}
 
-# [Research]{style="color:white;"} {#sec-research}
+# [Wissenschaft]{style="color:white;"} {#sec-research}
 
 ::: {.column-body}
 
@@ -186,8 +188,6 @@ International Association of Vegetation Science ([IAVS](https://www.iavs.org/))
 
 ### [Publikationen](2_publikationen.qmd)
 
-### Universität
-
 **Wissenschaftler (Postdoc)**
 
 Technische Universität München
@@ -206,8 +206,6 @@ Germany
 <br>
 [Homepage/Profile](https://www.lss.ls.tum.de/roek/team/markus-bauer/)
 
-<br>
-<br>
 <br>
 <br>
 
@@ -263,7 +261,7 @@ Deutschland]{style="color:white;"}
 
 ::: {.column-screen style="background-color:#FFFFFF"}
 
-```{r Festuco-Brometea, echo=FALSE, align="center", fig.cap="[Cirsio-Bracypodion pinnati](https://floraveg.eu/vegetation/overview/Cirsio-Brachypodion%20pinnati) &copy; Markus Bauer"}
+```{r Festuco-Brometea, echo=FALSE, align="center", fig.cap="[Cirsio-Bracypodion pinnati](https://floraveg.eu/vegetation/overview/Cirsio-Brachypodion%20pinnati), Kalbenstein &copy; Markus Bauer"}
 knitr::include_graphics(here("images", "20210603_144806.jpg"))
 ```
 

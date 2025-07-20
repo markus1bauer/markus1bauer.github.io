@@ -7,7 +7,7 @@ library(here)
 library(tidyverse)
 ```
 
-```{r Festuco-Brometea_2, echo=FALSE, align="center", fig.cap="[Bromion erecti](https://floraveg.eu/vegetation/overview/Bromion%20erecti) &copy; Markus Bauer"}
+```{r Festuco-Brometea_2, echo=FALSE, align="center", fig.cap="[Bromion erecti](https://floraveg.eu/vegetation/overview/Bromion%20erecti), Pfalzlbauernberg, Alpiner Steig &copy; Markus Bauer"}
 knitr::include_graphics(here::here("images", "20250422_130019.jpg"))
 ```
 
@@ -76,6 +76,7 @@ knitr::include_graphics(here::here("images", "20250422_130019.jpg"))
 * <a href="https://natur-perspektiven.de/" style="color: white;">Natur Perspektiven</a>
 * <a href="https://www.jestaedt-partner.de/" style="color: white;">JESTAEDT + Partner</a>
 * <a href="https://www.terralimna.de/" style="color: white;">terra limna</a>
+<br>
 <br>
 
 :::

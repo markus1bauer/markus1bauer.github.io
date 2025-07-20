@@ -1,10 +1,13 @@
+title: "Landschaftsökologie Bauer"
+keywords: ["Markus", "Bauer", "Ökologie", "Freising", "München", "TUM", "TU", "Landschaft", "Munich", "ecology", "restoration", "grasslands", "grassland", "dikes", "dike"]
+
 project:
   type: website
   output-dir: docs
 
 website:
   title: "Landschaftsökologie Bauer"
-  description: "Markus Bauer ist selbständiger Vegetationskartierer und Wissenschaftler. Schwerpunkte sind das Monitoring, Biotopkartierung, GIS-Analysen und Statistik."
+  description: "Markus Bauer ist ein selbständiger Vegetationskartierer, Landschaftsplaner und Wissenschaftler im Bereich Ökologie in Freising und an der Technischen Universität München. Schwerpunkte sind Monitoring, Biotopkartierung, Renaturierung, GIS-Analysen und Statistik."
   site-url: "https://markus1bauer.github.io/"
   back-to-top-navigation: true
   search: false
@@ -16,7 +19,7 @@ website:
       - icon: house-door-fill
         text: " "
         href: index.qmd
-      - text: "Forschungsinteressen/Research interests"
+      - text: "Forschung/Research"
         href: 2_publikationen.qmd
       - text: "Referenzen/References"
         href: 3_referenzen.qmd
@@ -46,13 +49,13 @@ format:
 
 babelquarto:
   languagecodes:
-  - name: en
-    text: "Researcher [EN]"
   - name: de
     text: "Kartierer [DE]"
+  - name: en
+    text: "Scientist [EN]"
   mainlanguage: 'de'
   languages: ['en']
 title-en: "Markus Bauer"
-description-en: "Markus Bauer is postdoctoral scientist in restoration ecology at the Technical University of Munich"
+description-en: "Markus Bauer is a freelance vegetation mapper, landscape planner and scientist (postdoctoral researcher) in the field of ecology in Freising and at the Technical University of Munich. He specialises in monitoring, biotope mapping, renaturation, GIS analyses and statistics."
 author-en: "Markus Bauer"
 lang: de
