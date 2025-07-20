@@ -5,13 +5,19 @@ library(tidyverse)
 
 # Research interests
 
+::: {.column-screen style="background-color:#FFFFFF"}
+
 ```{r Experiment, echo=FALSE, align="center", fig.cap="Experiment for the restoration of tall-grass prairies, Michigan &copy; Lars Brudvig"}
 knitr::include_graphics(here::here("images", "20250718_1000012834.jpg"))
 ```
 
+:::
+
 [Google Scholar](https://scholar.google.de/citations?hl=de&user=oHhmOkkAAAAJ){target="_blank"}
 
 The purpose of my research is to predictably achieve a certain target state of vegetation through ecological restoration. The target state can be a certain functional diversity or a certain species composition. In order to achieve the target state, the dispersal, abiotic and biotic filters should be modified with the help of restoration measures. The target state is not defined as a point but as a target area or habitat type (e.g. low altitude hay meadows ([R22](https://floraveg.eu/habitat/overview/R22)) or semi-dry calcareous grasslands ([R1A](https://floraveg.eu/habitat/overview/R1A))) and thus implies spatial variation and temporal turnover. (cf. Cousens [2024](https://bookdown.org/rogerdavidcousens/_book/why-a-hard-science-needs-strong-critique.html) about goal setting)
+
+<br>
 
 ## Community assembly for restoration
 
@@ -27,6 +33,8 @@ knitr::include_graphics(here::here("images", "figure_3_300dpi_16.5x5cm.png"))
 [https://doi.org/10.1111/1365-2664.14497](https://doi.org/10.1111/1365-2664.14497)
 
 Teixeira LH\*, **Bauer M**\*, Moosner M, Kollmann J (2023) River dike grasslands can reconcile biodiversity and different ecosystem services to provide multifunctionality. – *Basic and Applied Ecology* 66, 22–30. [![DOI:10.1016/j.baae.2022.12.001](http://img.shields.io/badge/DOI-10.1016/j.baae.2022.12.001-informational.svg)](https://doi.org/10.1016/j.baae.2022.12.001)
+
+<br>
 
 ## Vegetation dynamics
 
@@ -44,6 +52,12 @@ knitr::include_graphics(here::here("images", "figure_2_800dpi_16.5x11cm.png"))
 
 **Bauer M**, Harzer R, Strobl K & Kollmann J (2018) Resilience of riparian vegetation after restoration measures on River Inn. – *River Research and Applications* 35, 451–460. [![DOI:10.1002/rra.3255](http://img.shields.io/badge/DOI-10.1002/rra.3255-informational.svg)](https://doi.org/10.1002/rra.3255)
 
+<br>
+
+::: {.column-screen style="background-color:#FFFFFF"}
+
 ```{r Experiment2, echo=FALSE, align="center", fig.cap="Experiment on dikes along river Danube &copy; Markus Bauer"}
 knitr::include_graphics(here::here("images", "20210716_111816.jpg"))
 ```
+
+:::
