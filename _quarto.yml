@@ -44,7 +44,7 @@ format:
     monofont: Arial
     toc: FALSE
     meta:
-      keywords: ["Markus", "Bauer", "Ökologie", "Freising", "München", "TUM", "TU", "Landschaft", "Munich", "ecology", "restoration", "grasslands", "grassland", "dikes", "dike"]
+      keywords: ["Markus", "Bauer", "Kartierung", "Vegetation", "Pflanzen", "Ökologie", "München", "Landschaft", "Munich", "ecology", "restoration", "grasslands", "grassland", "dikes", "dike", "vegetation"]
       description: "Markus Bauer ist ein selbständiger Vegetationskartierer, Landschaftsplaner und Wissenschaftler im Bereich Ökologie in Freising und an der Technischen Universität München. Schwerpunkte sind Monitoring, Biotopkartierung, Renaturierung, GIS-Analysen und Statistik."
 
 babelquarto:
