@@ -15,13 +15,13 @@ knitr::include_graphics(here::here("images", "20250718_1000012834.jpg"))
 
 [Google Scholar](https://scholar.google.de/citations?hl=de&user=oHhmOkkAAAAJ){target="_blank"}
 
-The purpose of my research is to predictably achieve a certain target state of vegetation through ecological restoration. The target state can be a certain functional diversity or a certain species composition. In order to achieve the target state, the dispersal, abiotic and biotic filters should be modified with the help of restoration measures. The target state is not defined as a point but as a target area or habitat type (e.g. low altitude hay meadows ([R22](https://floraveg.eu/habitat/overview/R22)) or semi-dry calcareous grasslands ([R1A](https://floraveg.eu/habitat/overview/R1A))) and thus implies spatial variation and temporal turnover. (cf. Cousens [2024](https://bookdown.org/rogerdavidcousens/_book/why-a-hard-science-needs-strong-critique.html) about goal setting)
+Das Ziel meiner Forschung ist es, durch ökologische Renaturierung einen bestimmten Zielzustand der Vegetation vorhersagbar zu erreichen. Der Zielzustand kann eine bestimmte funktionelle Vielfalt oder eine bestimmte Artenzusammensetzung sein. Um den Zielzustand zu erreichen, sollten die Ausbreitung sowie abiotische und biotische Filter mit Hilfe von Renaturierungsmaßnahmen verändert werden. Der Zielzustand wird nicht als Punkt, sondern als Zielgebiet oder Lebensraumtyp definiert (z. B. Tiefland-Heuwiesen ([R22](https://floraveg.eu/habitat/overview/R22)) oder halbtrockene Kalkrasen ([R1A](https://floraveg.eu/habitat/overview/R1A))) und impliziert somit räumliche Variation und zeitlichen Wandel (vgl. Cousens [2024](https://bookdown.org/rogerdavidcousens/_book/why-a-hard-science-needs-strong-critique.html) zu Zielsetzung)
 <br>
 <br>
 
-## Community assembly for restoration
+## *Community assembly* für Renaturierungen
 
-I study the interactions of the species pool (e.g. size or composition), dispersal (e.g. distance to next habitat or seeding density), abiotic (e.g. soil productivity), and biotic filters (e.g. management or invasive species)
+Ich untersuche die Wechselwirkungen zwischen Artenpool (z. B. Größe oder Zusammensetzung), Ausbreitung (z. B. Entfernung zum nächsten Lebensraum oder Aussaatdichte), abiotischen (z. B. Bodenproduktivität) und biotischen Filtern (z. B. Bewirtschaftung oder invasive Arten).
 
 ```{r effect-sizes, echo=FALSE, align="center", fig.cap="Bauer et al. (2023) J Appl Ecol"}
 knitr::include_graphics(here::here("images", "figure_3_300dpi_16.5x5cm.png"))
@@ -38,7 +38,7 @@ Teixeira LH\*, **Bauer M**\*, Moosner M, Kollmann J (2023) River dike grasslands
 
 ## Vegetationsdynamik
 
-I am interested vegetation change over time containing of annual balanced turnover and directional change. This is important for the evaluation of reference sites as well as to identify unhelpful resilience of degraded sites under restoration.
+Ich interessiere mich für Vegetationsveränderungen im Laufe der Zeit, die einen jährlichen ausgeglichenen Umsatz und eine Richtungsänderung beinhalten. Dies ist wichtig für die Bewertung von Referenzstandorten sowie für die Identifizierung der unhilfreichen Widerstandsfähigkeit degradierter Standorte, die sich in der Wiederherstellung befinden.
 
 ```{r NMDS, echo=FALSE, align="center", fig.cap="Bauer et al. (2024) J Veg Sci"}
 knitr::include_graphics(here::here("images", "figure_2_800dpi_16.5x11cm.png"))

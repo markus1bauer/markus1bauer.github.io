@@ -261,7 +261,7 @@ Deutschland]{style="color:white;"}
 
 ::: {.column-screen style="background-color:#FFFFFF"}
 
-```{r Festuco-Brometea, echo=FALSE, align="center", fig.cap="[Cirsio-Bracypodion pinnati](https://floraveg.eu/vegetation/overview/Cirsio-Brachypodion%20pinnati), Kalbenstein &copy; Markus Bauer"}
+```{r Festuco-Brometea, echo=FALSE, align="center", fig.cap="[Cirsio-Bracypodion pinnati](https://floraveg.eu/vegetation/overview/Cirsio-Brachypodion%20pinnati), Pfalzlbauernberg, Alpiner Steig &copy; Markus Bauer"}
 knitr::include_graphics(here("images", "20210603_144806.jpg"))
 ```
 

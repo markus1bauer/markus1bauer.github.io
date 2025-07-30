@@ -9,7 +9,7 @@ library(here)
 library(tidyverse)
 ```
 
-```{r Festuco-Brometea_2, echo=FALSE, align="center", fig.cap="[Bromion erecti](https://floraveg.eu/vegetation/overview/Bromion%20erecti), Pfalzlbauernberg, GER &copy; Markus Bauer"}
+```{r Festuco-Brometea_2, echo=FALSE, align="center", fig.cap="[Bromion erecti](https://floraveg.eu/vegetation/overview/Bromion%20erecti), Kalbenstein &copy; Markus Bauer"}
 knitr::include_graphics(here::here("images", "20250422_130019.jpg"))
 ```
 
