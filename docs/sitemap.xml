@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://markus1bauer.github.io/en/referenzen.html</loc>
-    <lastmod>2025-07-20T02:28:18.632Z</lastmod>
+    <lastmod>2025-07-30T03:22:29.017Z</lastmod>
   </url>
   <url>
     <loc>https://markus1bauer.github.io/en/impressum.html</loc>
@@ -18,11 +18,11 @@
   </url>
   <url>
     <loc>https://markus1bauer.github.io/en/index.html</loc>
-    <lastmod>2025-07-20T11:10:13.221Z</lastmod>
+    <lastmod>2025-07-30T03:22:28.516Z</lastmod>
   </url>
   <url>
     <loc>https://markus1bauer.github.io/referenzen.html</loc>
-    <lastmod>2025-07-30T03:22:28.768Z</lastmod>
+    <lastmod>2025-08-01T01:59:41.566Z</lastmod>
   </url>
   <url>
     <loc>https://markus1bauer.github.io/impressum.html</loc>
@@ -39,25 +39,5 @@
   <url>
     <loc>https://markus1bauer.github.io/index.html</loc>
     <lastmod>2025-07-30T03:22:28.424Z</lastmod>
-  </url>
-  <url>
-    <loc>https://markus1bauer.github.io/index.en.html</loc>
-    <lastmod>2025-07-30T03:22:28.516Z</lastmod>
-  </url>
-  <url>
-    <loc>https://markus1bauer.github.io/referenzen.en.html</loc>
-    <lastmod>2025-07-30T03:22:29.017Z</lastmod>
-  </url>
-  <url>
-    <loc>https://markus1bauer.github.io/forschung.en.html</loc>
-    <lastmod>2025-07-20T10:54:56.776Z</lastmod>
-  </url>
-  <url>
-    <loc>https://markus1bauer.github.io/datenschutz.en.html</loc>
-    <lastmod>2025-07-04T03:53:38.775Z</lastmod>
-  </url>
-  <url>
-    <loc>https://markus1bauer.github.io/impressum.en.html</loc>
-    <lastmod>2025-07-04T03:53:38.868Z</lastmod>
   </url>
 </urlset>
