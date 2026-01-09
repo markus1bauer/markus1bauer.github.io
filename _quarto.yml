@@ -40,6 +40,7 @@ website:
 
 format:
   html:
+    include-in-header: includes/google-verification.html
     fontsize: 14pt
     monofont: Arial
     toc: FALSE
