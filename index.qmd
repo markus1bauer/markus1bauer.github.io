@@ -44,7 +44,10 @@ Wissenschaftler | Technische Universität München
 
 Ich bin ein freiberuflicher Vegetationskartierer in Südbayern für Wald und Offenland im Rahmen von Monitoringarbeiten und Biotopkartierungen. Außerdem erstelle ich Monitoringkonzepte und arbeite mit GNSS für ein exakte Verortung von Dauerbeobachtungsflächen.
 <br>
-Als Ökologe interessiere ich mich für das Thema der zuverlässigen Entwicklung der Zielvegetation durch Renaturierung. Dies soll zu einer erhöhten biologischen Vielfalt in degradierten Schutzgebieten und in modernen Landschaftselementen führen, die so zur grünen Infrastruktur beitragen können.  
+Als Ökologe interessiere ich mich für das Thema der zuverlässigen Entwicklung der Zielvegetation durch Renaturierung. Dies soll zu einer erhöhten biologischen Vielfalt in degradierten Schutzgebieten und in modernen Landschaftselementen führen, die so zur grünen Infrastruktur beitragen können. 
+<br>
+<br>
+[Lebenslauf](here::here("data", "cv_markus_bauer.pdf"))
 <br>
 <br>
 

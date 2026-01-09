@@ -46,6 +46,9 @@ I am an ecologist interested in the predictable development of target vegetation
 Furthermore, I am a freelance vegetation mapper in southern Bavaria for forest and grassland in the context of monitoring projects and biotope mapping. I also create monitoring concepts and work with GNSS for the exact localisation of permanent plots.
 <br>
 <br>
+[Lebenslauf](here::here("data", "cv_markus_bauer.pdf"))
+<br>
+<br>
 
 :::
 
