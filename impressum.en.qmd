@@ -14,7 +14,7 @@ Umsatzsteuer-ID: 115/202/93282
 
 Eingetragener Firmensitz
 <br>
-Henkelstraße 19, 85354 Freising, DE
+85354 Freising, DE
 
 Kontaktinformationen
 <br>
@@ -33,6 +33,8 @@ Willi-Hussong-Straße 2
 Geltungsraum der Versicherung:
 <br>
 Deutschland
+
+Personen-, Sach- und Vermögensschäden EUR 50 Mio.
 
 
 Verbraucherstreitbeilegung
