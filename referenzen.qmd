@@ -31,7 +31,8 @@ knitr::include_graphics(here::here("images", "20250422_130019.jpg"))
 #### **Kartierung Biotop- und Nutzungstypen (BNT)** (Auswahl)
 
 * München Stadtgebiet, U-Bahnverlängerung Pasing-Freiham, 2025, 238 ha\
-  ‒ Projekt der Stadt München\
+  ‒ Projekt der Landeshauptstadt München\
+  - Jestaedt + Partner, München\
   ‒ Natur Perspektiven, Marzling
 * Grünland München-Riem, 2024, 9 ha\
   ‒ Jestaedt + Partner, München
