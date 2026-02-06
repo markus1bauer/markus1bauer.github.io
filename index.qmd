@@ -133,6 +133,8 @@ Als Ökologe interessiere ich mich für das Thema der zuverlässigen Entwicklung
 
 Bundesverband Beruflicher Naturschutz ([BBN](https://www.bbn-online.de/start))
 <br>
+Alumni-Club Landschaft TUM ([ACL](https://www.acl-tum.de/))
+<br>
 Bayerische Botanische Gesellschaft ([BBG](https://www.bbgev.de/))
 <br>
 Floristisch-soziologische Arbeitsgemeinschaft ([FlorSoz](https://www.tuexenia.de/en/home-2/))
@@ -156,7 +158,7 @@ International Association of Vegetation Science ([IAVS](https://www.iavs.org/))
 <center>
 ![](images/grass_4123310_white.png){width=128}
 <br>
-[**Grassland Ecology**]{style="color:white;"}
+[**Grasland**]{style="color:white;"}
 </center>
 
 :::
@@ -166,7 +168,7 @@ International Association of Vegetation Science ([IAVS](https://www.iavs.org/))
 <center>
 ![](images/forest_15423883_white.png){width=128}
 <br>
-[**Community Ecology**]{style="color:white;"}
+[***Community Ecology***]{style="color:white;"}
 </center>
 
 :::
@@ -176,7 +178,7 @@ International Association of Vegetation Science ([IAVS](https://www.iavs.org/))
 <center>
 ![](images/landscape_4932762_white.png){width=128}
 <br>
-[**Restoration Ecology**]{style="color:white;"}
+[**Renaturierungs- ökologie**]{style="color:white;"}
 </center>
 
 :::
@@ -205,9 +207,9 @@ Emil-Ramann-Straße 6
 <br>
 Germany 
 <br>
-[www.lss.ls.tum.de/roek](https://www.lss.ls.tum.de/roek)
+[Homepage](https://www.lss.ls.tum.de/roek)
 <br>
-[Homepage/Profile](https://www.lss.ls.tum.de/roek/team/markus-bauer/)
+[Homepage/Profil](https://www.lss.ls.tum.de/roek/team/markus-bauer/)
 
 <br>
 <br>
