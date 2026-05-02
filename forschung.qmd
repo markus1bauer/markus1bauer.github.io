@@ -13,7 +13,7 @@ knitr::include_graphics(here::here("images", "20250718_1000012834.jpg"))
 
 :::
 
-[Google Scholar](https://scholar.google.de/citations?hl=de&user=oHhmOkkAAAAJ){target="_blank"}
+Alle Publikationen: [Google Scholar](https://scholar.google.de/citations?hl=de&user=oHhmOkkAAAAJ){target="_blank"}
 
 Das Ziel meiner Forschung ist es, durch ökologische Renaturierung einen bestimmten Zielzustand der Vegetation vorhersagbar zu erreichen. Der Zielzustand kann eine bestimmte funktionelle Vielfalt oder eine bestimmte Artenzusammensetzung sein. Um den Zielzustand zu erreichen, sollten die Ausbreitung sowie abiotische und biotische Filter mit Hilfe von Renaturierungsmaßnahmen verändert werden. Der Zielzustand wird nicht als Punkt, sondern als Zielgebiet oder Lebensraumtyp definiert (z. B. Tiefland-Heuwiesen ([R22](https://floraveg.eu/habitat/overview/R22)) oder halbtrockene Kalkrasen ([R1A](https://floraveg.eu/habitat/overview/R1A))) und impliziert somit räumliche Variation und zeitlichen Wandel (vgl. Cousens [2024](https://bookdown.org/rogerdavidcousens/_book/why-a-hard-science-needs-strong-critique.html) zu Zielsetzung)
 <br>
@@ -28,6 +28,10 @@ knitr::include_graphics(here::here("images", "figure_3_300dpi_16.5x5cm.png"))
 ```
 
 #### **Ausgewählte Publikationen (*Peer review*)**
+
+**Bauer M** & Kollmann J (2026) Grassland restoration seen through the lens of four high-level processes in community ecology. – *Global Ecology and Conservation* 68, e04189. [https://doi.org/10.1016/j.gecco.2026.e04189](https://doi.org/10.1016/j.gecco.2026.e04189)
+
+Appeltauer S, Knöppler M, Teschauer M, Kollmann J & **Bauer M** (2026) The restoration debt remains: Topsoil removal and different mowing regimes reach desired states of calcareous grassland but do not match the reference. – *Applied Vegetation Science* 29, e70067. [https://doi.org/10.1111/avsc.70067](https://doi.org/10.1111/avsc.70067)
 
 **Bauer M**, Huber JK, Kollmann J (2023) Fit by design: Developing seed–substrate combinations to adapt dike grasslands to microclimatic variation. – *Journal of Applied Ecology* 60, 2413–2424. 
 [https://doi.org/10.1111/1365-2664.14497](https://doi.org/10.1111/1365-2664.14497)
