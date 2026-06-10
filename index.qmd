@@ -108,15 +108,49 @@ B.Sc. in Landschaftsarchitektur und Landschaftsplanung (2012-2016)
 
 :::
 
+::: {.column-body}
+
+::: {style="display: grid; grid-template-columns: 55% 40%; grid-column-gap: 5%;"}
+
+::: {}
+
 #### **Vegetationskartierung**
 
 *   BNT-Kartierung (BayKompV)
 *   FFH-Lebensraumtypen
 *   Baumbestandspläne
-*   Floristisch-vegetationskundliche Aufnahmen (Braun-Blanquet)
+*   Floristisch-vegetationskundliche Aufnahmen
+    *   Erfolgskontrolle und Dauerbeobachtungsflächen (Braun-Blanquet)
     *   Populationserfassung
-    *   Erfolgskontrolle und Dauerbeobachtungsflächen
     *   GNSS-Sensor [ppm10xx](https://ppmgmbh.com/Download/Produkte/ppm/ppm10xx/Datenblatt/Datenblatt_ppm10xx.pdf) (Genauigkeit 1 cm)
+
+:::
+
+::: {}
+
+<br>
+
+<center>
+![](images/20260525_190210_quadratisch.jpg)
+</center>
+
+:::
+
+:::
+
+::: {style="display: grid; grid-template-columns: 40% 55%; grid-column-gap: 5%;"}
+
+::: {}
+
+<br>
+
+<center>
+![](images/Screenshot 2026-06-10 155614.jpg)
+</center>
+
+:::
+
+::: {}
 
 #### **Statistische Datenanalyse**
 
@@ -129,12 +163,36 @@ B.Sc. in Landschaftsarchitektur und Landschaftsplanung (2012-2016)
     *   Kartendarsellung
 *   Dashboards mit [Shiny](https://rstudio.github.io/shinydashboard/index.html)
 
+:::
+
+:::
+
+::: {style="display: grid; grid-template-columns: 65% 30%; grid-column-gap: 5%;"}
+
+::: {}
+
 #### **Monitoringkonzepte und Literaturstudien**
 
 *   Erstellung von Monitorinkonzepten  
     *   repräsentative Aufnahmeverteilung; statistisch auswertbar
 *   Literaturrecherche zu Forschungsfragen
 *   Erstellung von Publikationen für Fachzeitschriften wie ANLiegen Natur
+
+:::
+
+::: {}
+
+<br>
+
+<center>
+![](images/Screenshot 2026-06-10 155904.jpg){width=250}
+</center>
+
+:::
+
+:::
+
+:::
 
 ### [Referenzen](referenzen.qmd)
 

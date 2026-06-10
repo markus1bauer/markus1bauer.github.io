@@ -15,6 +15,10 @@ knitr::include_graphics(here::here("images", "20250422_130019.jpg"))
 
 #### **Monitoring**
 
+* PEPL Garchinger Heide ‒ Vegetationsmonitoring 2026 im Rahmen des PEPL\
+  ‒ Heideflächenverein Münchner Norden e.V.
+  - Beauftragt durch die Regierung von Oberbayern
+
 * Langwieder Heide Kerngebiet und Erweiterung, München-Langwied, 2025\
   ‒ Landesbund für Vogelschutz (LBV), Kreisgruppe München
 
@@ -26,7 +30,7 @@ knitr::include_graphics(here::here("images", "20250422_130019.jpg"))
   ‒ Beauftragt durch Hochschule Weihenstephan-Triesdorf (Prof. Dr. Jörg Ewald)
 
 * PEPL Garchinger Heide ‒ Vegetationsmonitoring 2021 Konzeptentwicklung und Erstaufnahme des Monitorings im Rahmen des PEPL\
-  ‒ Heideflächenverein Münchner Norden e.V. / Technische Universität München
+  ‒ Heideflächenverein Münchner Norden e.V. | Technische Universität München
 
 #### **Kartierung Biotop- und Nutzungstypen (BNT)** (Auswahl)
 
